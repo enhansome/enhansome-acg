@@ -1,0 +1,2360 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VOICEVOX",
+          "description": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T07:57:44Z",
+            "owner": "VOICEVOX",
+            "repo": "voicevox",
+            "stars": 3218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoeGoe",
+          "description": "Anime character voice synthesizer. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-22T07:17:37Z",
+            "owner": "CjangCjengh",
+            "repo": "MoeGoe",
+            "stars": 2426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "0x40-web",
+          "description": "HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-20T06:17:07Z",
+            "owner": "mon",
+            "repo": "0x40-web",
+            "stars": 441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moefm.sh",
+          "description": "Client script for moefm radio. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-03-20T06:58:34Z",
+            "owner": "mike2718",
+            "repo": "moefm.sh",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DPlayer",
+          "description": "HTML5 danmaku video player. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-04T03:04:09Z",
+            "owner": "DIYgod",
+            "repo": "DPlayer",
+            "stars": 16474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CommentCoreLibrary",
+          "description": "Javascript Live Comment (Danmaku) Engine Implementation. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-17T18:14:03Z",
+            "owner": "jabbany",
+            "repo": "CommentCoreLibrary",
+            "stars": 1928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ABPlayerHTML5",
+          "description": "Video Player for danmaku comments. ABPlayer in HTML5. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-14T18:57:33Z",
+            "owner": "jabbany",
+            "repo": "ABPlayerHTML5",
+            "stars": 884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Danmaku",
+          "description": "High performance JavaScript danmaku engine. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T04:06:55Z",
+            "owner": "weizhenye",
+            "repo": "Danmaku",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danmaku2ass",
+          "description": "Convert comments from Niconico/AcFun/bilibili to ASS format. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-28T10:31:21Z",
+            "owner": "m13253",
+            "repo": "danmaku2ass",
+            "stars": 619
+          }
+        }
+      ],
+      "title": "Danmaku"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "you-get",
+          "description": "Dumb downloader that scrapes the web. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T08:02:33Z",
+            "owner": "soimort",
+            "repo": "you-get",
+            "stars": 56880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gallery-dl",
+          "description": "Command-line program to download image-galleries and -collections from several image hosting sites. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T09:53:37Z",
+            "owner": "mikf",
+            "repo": "gallery-dl",
+            "stars": 19197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CeJS",
+          "description": "Online novels / comics downloader. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T23:25:28Z",
+            "owner": "kanasimi",
+            "repo": "work_crawler",
+            "stars": 4158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imgbrd-grabber",
+          "description": "Very customizable imageboard/booru downloader with powerful filenaming features. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-03T10:05:50Z",
+            "owner": "Bionus",
+            "repo": "imgbrd-grabber",
+            "stars": 3169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixivUtil (Pixiv Downloader)",
+          "description": "Downloader and tag manager for Pixiv. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T05:20:57Z",
+            "owner": "Nandaka",
+            "repo": "PixivUtil2",
+            "stars": 2695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E-Hentai-Downloader",
+          "description": "Download E-Hentai archive as zip file. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T15:10:51Z",
+            "owner": "ccloli",
+            "repo": "E-Hentai-Downloader",
+            "stars": 2395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ComicGUISpider",
+          "description": "Comic downloader by simple GUI operation. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-16T14:18:51Z",
+            "owner": "jasoneri",
+            "repo": "ComicGUISpider",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comic-DL",
+          "description": "Command line tool to download manga and comics from various comic and manga sites. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-31T14:42:13Z",
+            "owner": "Xonshiz",
+            "repo": "comic-dl",
+            "stars": 667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DMHY",
+          "description": "Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2023-11-16T06:28:20Z",
+            "owner": "yaqinking",
+            "repo": "DMHY",
+            "stars": 476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Danbooru Downloader",
+          "description": "Downloader for Danbooru. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-16T08:36:10Z",
+            "owner": "Nandaka",
+            "repo": "DanbooruDownloader",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waifuc",
+          "description": "Anime image data collector for training models. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-24T08:05:00Z",
+            "owner": "deepghs",
+            "repo": "waifuc",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JComicDownloader",
+          "description": "Tool for downloading some comics and light novels from China. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-05-29T14:20:49Z",
+            "owner": "abc9070410",
+            "repo": "JComicDownloader",
+            "stars": 250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getComic",
+          "description": "Download tencent comics. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T03:16:01Z",
+            "owner": "abcfy2",
+            "repo": "getComic",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MangaRipper",
+          "description": "Download manga (Japanese Comic) from several websites for your offline viewing. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-06-15T06:44:33Z",
+            "owner": "NguyenDanPhuong",
+            "repo": "MangaRipper",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Albireo",
+          "description": "Bangumi auto download and management project. It has a webclient called Deneb. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-01-29T07:59:01Z",
+            "owner": "lordfriend",
+            "repo": "Albireo",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BooruDownloader",
+          "description": "Downloader for gelbooru, danbooru and other websites that use their engines. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-04-15T07:27:18Z",
+            "owner": "fgRuslan",
+            "repo": "BooruDownloader",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anilist-crawler",
+          "description": "Crawl data from anilist API and store in elasticsearch. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T15:37:34Z",
+            "owner": "soruly",
+            "repo": "anilist-crawler",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OkanimeDownloader",
+          "description": "Scrape Arabic translated anime from Okanime without any effort. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T12:58:15Z",
+            "owner": "0xMH",
+            "repo": "OkanimeDownloader",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pixiv Illust",
+          "description": "Both a downloader and a third-party Node.js api for Pixiv. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-21T02:04:43Z",
+            "owner": "HakurouKen",
+            "repo": "pixiv-illust",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tako Manga Downloader",
+          "description": "Browser sidepanel extension for manga/manhua/manhwa downloading with various site supports. [中文/日本語/English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T00:09:09Z",
+            "owner": "oovz",
+            "repo": "Tako",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Downloaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nyaa",
+          "description": "The software behind Nyaa.si. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-02T21:29:43Z",
+            "owner": "nyaadevs",
+            "repo": "nyaa",
+            "stars": 3390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixivpy",
+          "description": "Pixiv API for Python. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-31T11:05:43Z",
+            "owner": "upbit",
+            "repo": "pixivpy",
+            "stars": 2049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anime-offline-database",
+          "description": "A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Makefile",
+            "last_commit": "2026-07-04T15:39:58Z",
+            "owner": "manami-project",
+            "repo": "anime-offline-database",
+            "stars": 1324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NyaaPantsu",
+          "description": "Nyaa.se replacement written in golang. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-09-20T05:49:29Z",
+            "owner": "NyaaPantsu",
+            "repo": "nyaa",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bangumi Data",
+          "description": "Raw data for Japanese Anime. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T06:58:03Z",
+            "owner": "bangumi-data",
+            "repo": "bangumi-data",
+            "stars": 635
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vocaloid Database",
+          "description": "Server software used by vocadb.net. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-12T17:34:24Z",
+            "owner": "VocaDB",
+            "repo": "vocadb",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "E-HentaiCrawler",
+          "description": "E-Heitai Crawler. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-02T14:34:09Z",
+            "owner": "shuiqukeyou",
+            "repo": "E-HentaiCrawler",
+            "stars": 390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anilogia",
+          "description": "Anime list database. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-26T14:43:03Z",
+            "owner": "anilogia",
+            "repo": "animedb",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anime-streaming",
+          "description": "A curated list of worldwide legal anime streaming. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-27T13:30:28Z",
+            "owner": "otakulogy",
+            "repo": "anime-streaming",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arm-server",
+          "description": "A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T12:07:39Z",
+            "owner": "beeequeue",
+            "repo": "arm-server",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anime-relations",
+          "description": "Episode redirections for Taiga. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-08T09:24:08Z",
+            "owner": "erengy",
+            "repo": "anime-relations",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "manga-platform",
+          "description": "A curated list of worldwide legal manga reading site. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-14T09:37:42Z",
+            "owner": "otakulogy",
+            "repo": "manga-platform",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seiyuu.moe",
+          "description": "A webpage for searching collaborate anime works between seiyuu. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-15T19:49:22Z",
+            "owner": "Ervie",
+            "repo": "Seiyuu.moe",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iakesi",
+          "description": "A website collection to map anime scene to real life locations(圣地巡礼). [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-13T12:03:23Z",
+            "owner": "zend10",
+            "repo": "iakesi",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dhufufu",
+          "description": "Additional API Docs for some Chinese ACG sites & Related Services (currently outdated). [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-11-19T13:38:55Z",
+            "owner": "sorz",
+            "repo": "dhufufu",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnimeBirthdaysDataset",
+          "description": "Anime birthday dataset from bd.fan-web.jp. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-23T06:53:17Z",
+            "owner": "hykilpikonna",
+            "repo": "AnimeBirthdaysDataset",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Data Sources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hydrus",
+          "description": "A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:13:03Z",
+            "owner": "hydrusnetwork",
+            "repo": "hydrus",
+            "stars": 3162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danbooru",
+          "description": "Taggable image board written in Rails 4 for danbooru.donmai.us. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-06T13:53:02Z",
+            "owner": "danbooru",
+            "repo": "danbooru",
+            "stars": 2778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "szurubooru",
+          "description": "Python-powered booru for small to medium communities. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T13:05:33Z",
+            "owner": "rr-",
+            "repo": "szurubooru",
+            "stars": 989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moebooru",
+          "description": "Fork of danbooru1 that has been heavily modified. Used on yande.re , Konachan.com. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T18:34:47Z",
+            "owner": "moebooru",
+            "repo": "moebooru",
+            "stars": 605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TagsTable",
+          "description": "Chinese ⇔ Engish translation table for common booru tags. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-10-09T07:19:08Z",
+            "owner": "zcyzcy88",
+            "repo": "TagTable",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydron",
+          "description": "Media tagger and organizer backend and GUI frontend. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-10-02T13:39:48Z",
+            "owner": "bakape",
+            "repo": "hydron",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animeshot2",
+          "description": "An open and searchable image repository with telegram bot integration in Node.js. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-13T21:49:51Z",
+            "owner": "bitinn",
+            "repo": "animeshot2",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PBooru",
+          "description": "Permanent Booru is an image board web server which takes leverage of the decentralization of IPFS to distribute its content. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-31T17:44:33Z",
+            "owner": "Kycklingar",
+            "repo": "PBooru",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atogatari",
+          "description": "Share and discover your favorite anime characters. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-22T07:05:25Z",
+            "owner": "kingdido999",
+            "repo": "atogatari",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BooruSurfer2",
+          "description": "Consistent and space-efficient interface to Booru-like image boards. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-04-25T20:12:30Z",
+            "owner": "spillerrec",
+            "repo": "BooruSurfer2",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aint.moe",
+          "description": "Your waifu aint moe. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-07-18T16:41:40Z",
+            "owner": "maxpowa",
+            "repo": "aint.moe",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Image Board"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ToonCrafter",
+          "description": "Generative Cartoon Interpolation. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-19T06:43:54Z",
+            "owner": "Doubiiu",
+            "repo": "ToonCrafter",
+            "stars": 5999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paints-UNDO",
+          "description": "A Base Model of Drawing Behaviors in Digital Paintings. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T22:11:05Z",
+            "owner": "lllyasviel",
+            "repo": "Paints-UNDO",
+            "stars": 4066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anime2Sketch",
+          "description": "A sketch extractor for anime/illustration. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-16T06:44:46Z",
+            "owner": "Mukosame",
+            "repo": "Anime2Sketch",
+            "stars": 2124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepAA",
+          "description": "Make Ascii Arts by Deep Learning. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-14T02:47:40Z",
+            "owner": "OsciiArt",
+            "repo": "DeepAA",
+            "stars": 1576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chainer-DCGAN",
+          "description": "Generate anime face with neural network. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-06T16:48:15Z",
+            "owner": "mattya",
+            "repo": "chainer-DCGAN",
+            "stars": 932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TwinGAN",
+          "description": "Unsupervised Image Translation for Human Portraits to anime. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T02:46:57Z",
+            "owner": "jerryli27",
+            "repo": "TwinGAN",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AniDoc",
+          "description": "Colorize a sequence of sketches based on a character design reference with high fidelity. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-15T06:21:33Z",
+            "owner": "ant-research",
+            "repo": "AniDoc",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animate-me",
+          "description": "A miniapp to convert selfie to anime. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-18T08:04:23Z",
+            "owner": "Aneureka",
+            "repo": "animate-me",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "seeprettyface dongman",
+          "description": "A stylegan danbooru pretrain model with Chinese document. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-03T07:31:19Z",
+            "owner": "a312863063",
+            "repo": "seeprettyface-ganerator-dongman",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kemonogen",
+          "description": "Kemono Friends logo generator. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-25T03:57:42Z",
+            "owner": "aratama",
+            "repo": "kemonogen",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hololive-fusion-generator",
+          "description": "Dynamically generates combinations of names and pictures of Hololive members on the fly. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-23T21:34:27Z",
+            "owner": "vaexenc",
+            "repo": "hololive-fusion-generator",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FindTwin",
+          "description": "A pick and match game by random generated avatars. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-04-03T07:23:31Z",
+            "owner": "klimaleksus",
+            "repo": "FindTwin",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Talking Head Anime",
+          "description": "Talking Head Anime from a Single Image (source). [English]",
+          "children": []
+        }
+      ],
+      "title": "Image Generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Real-ESRGAN",
+          "description": "Practical Algorithms for General Image/Video Restoration. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-06T13:15:18Z",
+            "owner": "xinntao",
+            "repo": "Real-ESRGAN",
+            "stars": 36460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waifu2x",
+          "description": "Image Super-Resolution for Anime-Style Art. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-05-04T00:50:48Z",
+            "owner": "nagadomi",
+            "repo": "waifu2x",
+            "stars": 28216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anime4K",
+          "description": "A High-Quality Real Time Anime Upscaler. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-17T12:09:12Z",
+            "owner": "bloc97",
+            "repo": "Anime4K",
+            "stars": 21245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "style2paints",
+          "description": "Paint line images with AI. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-01T02:02:00Z",
+            "owner": "lllyasviel",
+            "repo": "style2paints",
+            "stars": 18183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Waifu2x-Extension-GUI",
+          "description": "Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T14:50:38Z",
+            "owner": "AaronFeng753",
+            "repo": "Waifu2x-Extension-GUI",
+            "stars": 16884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TachibanaYoshino AnimeGAN",
+          "description": "shinkaimakoto mentioned \"shinkaimakoto\" animestyle transfer model [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-03T16:38:02Z",
+            "owner": "TachibanaYoshino",
+            "repo": "AnimeGAN",
+            "stars": 4608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PaintsChainer",
+          "description": "Line drawing colorization using chainer. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-01-06T02:35:33Z",
+            "owner": "pfnet",
+            "repo": "PaintsChainer",
+            "stars": 3763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APISR",
+          "description": "APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024). [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T00:57:56Z",
+            "owner": "Kiteretsu77",
+            "repo": "APISR",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anime Segmentation",
+          "description": "High-accuracy segmentation for anime character. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-21T02:00:35Z",
+            "owner": "SkyTNT",
+            "repo": "anime-segmentation",
+            "stars": 828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MangaCraft",
+          "description": "Semi-automatic manga colorization. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-04-03T09:28:20Z",
+            "owner": "lllyasviel",
+            "repo": "MangaCraft",
+            "stars": 698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real-ESRGAN-GUI",
+          "description": "Real-ESRGAN GUI Wrapper. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2022-10-19T07:03:35Z",
+            "owner": "tsukumijima",
+            "repo": "Real-ESRGAN-GUI",
+            "stars": 615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sketchKeras",
+          "description": "An u-net with some algorithm to take sketch from paints. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-04T15:43:17Z",
+            "owner": "lllyasviel",
+            "repo": "sketchKeras",
+            "stars": 472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imgutils",
+          "description": "Image processing library with various anime-style image processing models. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-11T11:27:32Z",
+            "owner": "deepghs",
+            "repo": "imgutils",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waifu2x-converter-cpp",
+          "description": "Improved version of waifu2x. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-05-30T15:22:10Z",
+            "owner": "tanakamura",
+            "repo": "waifu2x-converter-cpp",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Overmix",
+          "description": "Automatic anime screenshot stitching in high quality. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-16T18:32:02Z",
+            "owner": "spillerrec",
+            "repo": "Overmix",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animeloop-cli",
+          "description": "Automatically detect and cut anime loops. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-12-18T12:33:08Z",
+            "owner": "moeoverflow",
+            "repo": "animeloop-cli",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cgCompress",
+          "description": "Compression tool tailored for Visual Novel CGs. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-01-23T12:57:18Z",
+            "owner": "spillerrec",
+            "repo": "cgCompress",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepCreamPy",
+          "description": "Decensoring hentai with deep neural networks. [English]",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "hoshizora",
+          "description": "Merge two image by alpha channel to get displayed respectively on white/black background. [English]",
+          "children": []
+        }
+      ],
+      "title": "Image Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lbpcascade_animeface",
+          "description": "Face detector for anime/manga using OpenCV. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-23T05:53:31Z",
+            "owner": "nagadomi",
+            "repo": "lbpcascade_animeface",
+            "stars": 1982
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Illustration2Vec",
+          "description": "Semantic Vector Representation of Illustrations. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-18T10:08:11Z",
+            "owner": "rezoo",
+            "repo": "illustration2vec",
+            "stars": 677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "animeface-2009",
+          "description": "Face and Landmark Detector for Anime/Manga. Similar to lbpcascade_animeface but more accurate. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2018-07-25T06:58:14Z",
+            "owner": "nagadomi",
+            "repo": "animeface-2009",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deep cascaded landmark detection",
+          "description": "Anime face landmark detection by deep cascaded regression. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-16T08:13:17Z",
+            "owner": "kanosawa",
+            "repo": "anime_face_landmark_detection",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AniSeg",
+          "description": "A faster-rcnn model for anime character segmentation. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-09T10:19:31Z",
+            "owner": "jerryli27",
+            "repo": "AniSeg",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transfer-learning-anime",
+          "description": "Transfer learning for anime characters recognition. Powered by lbpcascade_animeface for face detection. Available at MoeFlow. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-11-18T11:32:27Z",
+            "owner": "freedomofkeima",
+            "repo": "transfer-learning-anime",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LFFD animeface",
+          "description": "A fast and light-weighted anime face detection based on LFFD &mxnet. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-22T10:18:26Z",
+            "owner": "cheese-roll",
+            "repo": "light-anime-face-detector",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnimeFace Search v3",
+          "description": "Face detection for Anime. Powered by Imager::AnimeFace and otama - CBIR Engine. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-03-20T15:52:35Z",
+            "owner": "nagadomi",
+            "repo": "otama",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alt-i2v",
+          "description": "Alternative illustration2vec implitation of sigmoids of fully connected layer. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-10-20T11:47:12Z",
+            "owner": "GINK03",
+            "repo": "alt-i2v",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "danbooru-tagger",
+          "description": "auto labeling danboorulike tags for anime illustration. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2020-06-21T09:02:28Z",
+            "owner": "anthony-dipofi",
+            "repo": "danbooru-tagger",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anime-character-detector",
+          "description": "YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM). [English/日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-13T12:22:15Z",
+            "owner": "ksasao",
+            "repo": "anime-character-detector",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Image Recognition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WAIT: What Anime Is This?",
+          "description": "Anime scene search engine. Powered by liresolr. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T08:11:21Z",
+            "owner": "soruly",
+            "repo": "trace.moe",
+            "stars": 5011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "imsearch",
+          "description": "Image search powering soutubot.moe. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T10:05:48Z",
+            "owner": "lolishinshi",
+            "repo": "imsearch",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gochiusearch",
+          "description": "Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-01-18T14:25:54Z",
+            "owner": "ksasao",
+            "repo": "Gochiusearch",
+            "stars": 401
+          }
+        }
+      ],
+      "title": "Image Reverse Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mihon",
+          "description": "Free and open source manga reader for Android. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T14:49:25Z",
+            "owner": "mihonapp",
+            "repo": "mihon",
+            "stars": 22789
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EhViewer",
+          "description": "Unofficial E-Hentai Application for Android. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-08-09T04:50:17Z",
+            "owner": "seven332",
+            "repo": "EhViewer",
+            "stars": 9782
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amadeus",
+          "description": "A side project that aims to replicate the Amadeus App shown in Steins;Gate 0. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-10-02T18:39:24Z",
+            "owner": "Yink",
+            "repo": "Amadeus",
+            "stars": 1058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NineAnimator",
+          "description": "Elegant, concise, and intuitive anime discovery app for iOS. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2024-11-14T13:58:11Z",
+            "owner": "SuperMarcus",
+            "repo": "NineAnimator",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LNReader-Android",
+          "description": "Light novel reader for android. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-09-25T06:14:28Z",
+            "owner": "calvinaquino",
+            "repo": "LNReader-Android",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atarashii",
+          "description": "Android client for MyAnimeList. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-01-28T09:34:09Z",
+            "owner": "AnimeNeko",
+            "repo": "Atarashii",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KonaBot",
+          "description": "iOS client for konachan.net. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2016-12-25T17:09:10Z",
+            "owner": "hkalexling",
+            "repo": "KonaBot-iOS",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Mobile Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RADWIMPS",
+          "description": "君の then-then-then 世は Promise で Future. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-05-16T09:24:07Z",
+            "owner": "approvers",
+            "repo": "RADWIMPS",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hanabi",
+          "description": "Colorful syntax highlighter inspired by kemono-friends-syntax-highlight and its friends. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-01T16:24:39Z",
+            "owner": "egoist",
+            "repo": "hanabi",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kemono_friends_lang",
+          "description": ". [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-05-01T15:20:18Z",
+            "owner": "consomme",
+            "repo": "kemono_friends_lang",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nyaruko_lang",
+          "description": ". [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2023-12-15T14:55:40Z",
+            "owner": "masarakki",
+            "repo": "nyaruko_lang",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kawaii-term",
+          "description": "Kawaii shell terminal to relieve engineer's stress. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-29T17:30:22Z",
+            "owner": "GINK03",
+            "repo": "kawaii-term",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aaencoder",
+          "description": "Convert Javascript to kaomoji(顔文字). [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-07-30T21:40:26Z",
+            "owner": "mervick",
+            "repo": "php-aaencoder",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gochiusa_lang",
+          "description": ". [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-09-02T06:23:27Z",
+            "owner": "dolciss",
+            "repo": "gochiusa_lang",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hhiro_lang",
+          "description": ". [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2012-04-18T10:42:30Z",
+            "owner": "zonuexe",
+            "repo": "hhiro_lang",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "We-i_lang",
+          "description": ". [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2013-03-28T14:15:16Z",
+            "owner": "oppai",
+            "repo": "We-i_lang",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aeneas",
+          "description": "Automagically synchronize audio and text. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T10:22:31Z",
+            "owner": "readbeyond",
+            "repo": "aeneas",
+            "stars": 2860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sushi",
+          "description": "Automatic subtitle shifter based on audio. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-17T18:19:16Z",
+            "owner": "tp7",
+            "repo": "Sushi",
+            "stars": 718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASS.js",
+          "description": "JavaScript ASS subtitle format renderer. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-19T16:51:51Z",
+            "owner": "weizhenye",
+            "repo": "ASS",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavascriptSubtitlesOctopus",
+          "description": "Displays subtitles in .ass format and easily integrates with HTML5 videos. Supports all SSA/ASS features. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-11T00:49:55Z",
+            "owner": "libass",
+            "repo": "JavascriptSubtitlesOctopus",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dialogue.moe",
+          "description": "Search where a dialogue comes from. [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-14T14:50:38Z",
+            "owner": "windrises",
+            "repo": "dialogue.moe",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libjass",
+          "description": "Renders ASS subs in the browser. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-02-06T09:36:45Z",
+            "owner": "Arnavion",
+            "repo": "libjass",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fansubbing Guide",
+          "description": "A guide for fansubbing. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-06-22T12:22:08Z",
+            "owner": "Irrational-Encoding-Wizardry",
+            "repo": "guide.encode.moe",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SubBuilder",
+          "description": "Toolset to help checking and organizing bilingual subtitles (諸神字幕組). [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-08-22T02:15:17Z",
+            "owner": "KamigamiSub",
+            "repo": "SubBuilder",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Subtitles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCC",
+          "description": "Project for conversion between Traditional and Simplified Chinese. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T13:46:33Z",
+            "owner": "BYVoid",
+            "repo": "OpenCC",
+            "stars": 9897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taiga",
+          "description": "Lightweight anime tracker for Windows. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T13:13:18Z",
+            "owner": "erengy",
+            "repo": "taiga",
+            "stars": 2322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kuroshiro",
+          "description": "Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-07T19:20:29Z",
+            "owner": "hexenq",
+            "repo": "kuroshiro",
+            "stars": 985
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arc_unpacker",
+          "description": "Visual novel extracting tool in CLI. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2022-02-18T19:09:09Z",
+            "owner": "vn-tools",
+            "repo": "arc_unpacker",
+            "stars": 672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Comicbook",
+          "description": "Convert online comics to .epub e-book. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-08T14:22:45Z",
+            "owner": "moeoverflow",
+            "repo": "comicbook",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "anitomy",
+          "description": "Anime video filename parser. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-27T16:36:19Z",
+            "owner": "erengy",
+            "repo": "anitomy",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "getnative",
+          "description": "Find the native resolution(s) of upscaled material (mostly anime). [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-18T14:17:40Z",
+            "owner": "Infiziert90",
+            "repo": "getnative",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rankit.ikely.me",
+          "description": "Scientific ranking of anime ratings by Rankit. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-01T00:04:47Z",
+            "owner": "wattlebird",
+            "repo": "ranking",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Novel OCR",
+          "description": "Japanese optical character recognition for visual novels. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-22T07:35:36Z",
+            "owner": "leminhyen2",
+            "repo": "Visual-Novel-OCR",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bgm",
+          "description": "Display bangumi list in CLI. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-25T13:50:25Z",
+            "owner": "egoist",
+            "repo": "bgm",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wikipedia_anime_graph",
+          "description": "Calculate anime relevance from wikipedia. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-08T06:32:08Z",
+            "owner": "Project-ShangriLa",
+            "repo": "wikipedia_anime_graph",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AITuberKit",
+          "description": "AITuber Kit. [日本語/English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:50:41Z",
+            "owner": "tegnike",
+            "repo": "aituber-kit",
+            "stars": 1054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixi-live2d",
+          "description": "Display live2D model as a sprite in pixi.js. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-04-12T15:06:58Z",
+            "owner": "avgjs",
+            "repo": "pixi-live2d",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bangumi scripts",
+          "description": "Collection of user scripts for bangumi.tv. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-02T12:00:40Z",
+            "owner": "bangumi",
+            "repo": "scripts",
+            "stars": 326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-bangumi",
+          "description": "Collection of bangumi.tv related projects. [中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-22T22:40:54Z",
+            "owner": "bangumi-users",
+            "repo": "awesome-bangumi",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "acgn-stock",
+          "description": "Stock market for trading waifu on PPT (Taiwan). [English/中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-07T23:35:41Z",
+            "owner": "ACGN-stock",
+            "repo": "acgn-stock",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My Diary",
+          "description": "MyDiary from movie 「Your Name」.[中文]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2018-03-09T07:34:04Z",
+            "owner": "SSShooter",
+            "repo": "MyDiary-Vue",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kalidoface",
+          "description": "Face and Body Tracking for Live2D / 3D models on the web. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-05-23T00:28:31Z",
+            "owner": "yeemachine",
+            "repo": "kalidoface",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "japari-pedia",
+          "description": "Chrome extension that turns Wikipedia into Japari-Library. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-23T02:48:58Z",
+            "owner": "miyaoka",
+            "repo": "japari-pedia",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ojosama-web",
+          "description": "テキストを壱百満天原サロメお嬢様風の口調に変換するWebアプリ. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-16T21:02:37Z",
+            "owner": "jiro4989",
+            "repo": "ojosama-web",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deneb",
+          "description": "Web client for Albireo. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-12-07T16:51:03Z",
+            "owner": "lordfriend",
+            "repo": "Deneb",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebLive2D",
+          "description": "Rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-12-16T17:03:08Z",
+            "owner": "yutarochan",
+            "repo": "WebLive2D",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nKemono",
+          "description": "Chrome Extension that replaces all images with Kemono Friends. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-27T11:01:11Z",
+            "owner": "cornguo",
+            "repo": "nKemono",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kemono Adblocker",
+          "description": "Replace Advertisements with Kenomo Friends pictures using perceptual techniques. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-04-25T14:53:17Z",
+            "owner": "chiakich",
+            "repo": "Kemono_Adblocker",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KarasamaEgg",
+          "description": "KarasamaEgg dynamic wallpaper for WallpaperEngine. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-05-26T12:06:56Z",
+            "owner": "ClassicOldSong",
+            "repo": "KarasamaEgg",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Web"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AIRI",
+          "description": "A soul container of AI waifu / virtual characters to bring them into our world. [English/中文/日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T01:38:20Z",
+            "owner": "moeru-ai",
+            "repo": "airi",
+            "stars": 47816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anime-Girls-Holding-Programming-Books",
+          "description": "Anime Girls Holding Programming Books. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-10T18:25:25Z",
+            "owner": "cat-milk",
+            "repo": "Anime-Girls-Holding-Programming-Books",
+            "stars": 22429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "See-through",
+          "description": "Single-image Layer Decomposition for Anime Characters. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T13:31:48Z",
+            "owner": "shitagaki-lab",
+            "repo": "see-through",
+            "stars": 3507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChatdollKit",
+          "description": "ChatdollKit enables you to make your 3D model into a chatbot. [English/日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-11T13:18:50Z",
+            "owner": "uezo",
+            "repo": "ChatdollKit",
+            "stars": 1211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnimeEffects",
+          "description": "2D Animation Tool. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-07-27T23:48:06Z",
+            "owner": "hidefuku",
+            "repo": "AnimeEffects",
+            "stars": 766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ACG2vec",
+          "description": "Various deep learning practices and explorations related to the two-dimensional domain. [中文/English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-20T06:45:49Z",
+            "owner": "OysterQAQ",
+            "repo": "ACG2vec",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vignette",
+          "description": "The open source VTuber software. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-28T05:25:28Z",
+            "owner": "vignetteapp",
+            "repo": "vignette",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notify.moe",
+          "description": "Fetches your anime \"watching\" list and notifies you when a new anime episode is available. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-09-26T07:15:05Z",
+            "owner": "animenotifier",
+            "repo": "notify.moe",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MotionPNGTuber",
+          "description": "PNGTuber以上Live2D未満 - 動画ループで髪揺れなど表現可能なリアルタイム口パクツール. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T08:11:49Z",
+            "owner": "rotejin",
+            "repo": "MotionPNGTuber",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hime Display",
+          "description": "Universal desktop model displayer for Live2D, Spine, MMD and VRoid. [English/中文/日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-30T06:38:39Z",
+            "owner": "TSKI433",
+            "repo": "hime-display",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guide.encode.moe",
+          "description": "A anime RIPPER manual. [English]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-06-22T12:22:08Z",
+            "owner": "Irrational-Encoding-Wizardry",
+            "repo": "guide.encode.moe",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "marine_button",
+          "description": "Play 宝鐘マリン's voice on web. [日本語]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-23T00:03:52Z",
+            "owner": "hapo31",
+            "repo": "marine_button",
+            "stars": 49
+          }
+        }
+      ],
+      "title": "Uncategorized"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:57:09.040Z",
+    "original_repository": "soruly/awesome-acg",
+    "original_repository_sha": "4b6bdf4c6306ff132c272d113130e43601198d7e",
+    "enhanced_repository": "enhansome/enhansome-acg",
+    "enhanced_repository_description": null,
+    "title": "Awesome ACG with stars"
+  }
+}
