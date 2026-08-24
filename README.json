@@ -81,7 +81,7 @@
             "last_commit": "2026-03-04T03:04:09Z",
             "owner": "DIYgod",
             "repo": "DPlayer",
-            "stars": 16480
+            "stars": 16481
           }
         },
         {
@@ -159,10 +159,10 @@
             "archived": false,
             "id": 5483330,
             "language": "Python",
-            "last_commit": "2026-07-25T08:02:33Z",
+            "last_commit": "2026-08-24T07:23:27Z",
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56872
+            "stars": 56874
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-01T09:53:37Z",
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 19299
+            "stars": 19304
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-03T23:25:28Z",
             "owner": "kanasimi",
             "repo": "work_crawler",
-            "stars": 4188
+            "stars": 4189
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-17T11:13:52Z",
             "owner": "Bionus",
             "repo": "imgbrd-grabber",
-            "stars": 3182
+            "stars": 3183
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-23T15:21:45Z",
             "owner": "jasoneri",
             "repo": "ComicGUISpider",
-            "stars": 851
+            "stars": 852
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2026-08-24T00:51:37Z",
             "owner": "hydrusnetwork",
             "repo": "hydrus",
-            "stars": 3170
+            "stars": 3171
           }
         },
         {
@@ -726,10 +726,10 @@
             "archived": false,
             "id": 502760,
             "language": "Ruby",
-            "last_commit": "2026-08-24T02:42:34Z",
+            "last_commit": "2026-08-24T07:57:22Z",
             "owner": "danbooru",
             "repo": "danbooru",
-            "stars": 2788
+            "stars": 2789
           }
         },
         {
@@ -915,7 +915,7 @@
             "last_commit": "2023-08-16T06:44:46Z",
             "owner": "Mukosame",
             "repo": "Anime2Sketch",
-            "stars": 2126
+            "stars": 2127
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2024-08-06T13:15:18Z",
             "owner": "xinntao",
             "repo": "Real-ESRGAN",
-            "stars": 36560
+            "stars": 36570
           }
         },
         {
@@ -1086,7 +1086,7 @@
             "last_commit": "2023-05-04T00:50:48Z",
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28213
+            "stars": 28212
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2024-08-17T12:09:12Z",
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21283
+            "stars": 21286
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2026-08-16T01:13:46Z",
             "owner": "AaronFeng753",
             "repo": "Waifu2x-Extension-GUI",
-            "stars": 16911
+            "stars": 16913
           }
         },
         {
@@ -1221,7 +1221,7 @@
             "last_commit": "2022-10-19T07:03:35Z",
             "owner": "tsukumijima",
             "repo": "Real-ESRGAN-GUI",
-            "stars": 614
+            "stars": 613
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2025-10-11T11:27:32Z",
             "owner": "deepghs",
             "repo": "imgutils",
-            "stars": 410
+            "stars": 412
           }
         },
         {
@@ -1554,7 +1554,7 @@
             "last_commit": "2026-08-23T10:50:31Z",
             "owner": "mihonapp",
             "repo": "mihon",
-            "stars": 23077
+            "stars": 23084
           }
         },
         {
@@ -1569,7 +1569,7 @@
             "last_commit": "2019-08-09T04:50:17Z",
             "owner": "seven332",
             "repo": "EhViewer",
-            "stars": 9794
+            "stars": 9795
           }
         },
         {
@@ -1932,7 +1932,7 @@
             "last_commit": "2026-08-23T16:19:19Z",
             "owner": "BYVoid",
             "repo": "OpenCC",
-            "stars": 9931
+            "stars": 9932
           }
         },
         {
@@ -2316,10 +2316,10 @@
             "archived": false,
             "id": 896924279,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T01:34:55Z",
+            "last_commit": "2026-08-24T14:03:47Z",
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 48315
+            "stars": 48352
           }
         },
         {
@@ -2334,7 +2334,7 @@
             "last_commit": "2026-03-10T18:25:25Z",
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22477
+            "stars": 22480
           }
         },
         {
@@ -2349,7 +2349,7 @@
             "last_commit": "2026-08-05T13:31:48Z",
             "owner": "shitagaki-lab",
             "repo": "see-through",
-            "stars": 3611
+            "stars": 3613
           }
         },
         {
@@ -2439,7 +2439,7 @@
             "last_commit": "2026-04-13T08:11:49Z",
             "owner": "rotejin",
             "repo": "MotionPNGTuber",
-            "stars": 328
+            "stars": 327
           }
         },
         {
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:03:54.135Z",
+    "last_updated": "2026-08-24T14:14:46.587Z",
     "original_repository": "soruly/awesome-acg",
     "original_repository_id": 55614000,
     "original_repository_sha": "4b6bdf4c6306ff132c272d113130e43601198d7e",
