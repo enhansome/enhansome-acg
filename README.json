@@ -81,7 +81,7 @@
             "last_commit": "2026-03-04T03:04:09Z",
             "owner": "DIYgod",
             "repo": "DPlayer",
-            "stars": 16485
+            "stars": 16486
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-01T09:53:37Z",
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 19336
+            "stars": 19338
           }
         },
         {
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 32276615,
             "language": "C++",
-            "last_commit": "2026-08-25T22:39:18Z",
+            "last_commit": "2026-08-27T15:02:53Z",
             "owner": "Bionus",
             "repo": "imgbrd-grabber",
             "stars": 3186
@@ -714,7 +714,7 @@
             "last_commit": "2026-08-26T20:03:17Z",
             "owner": "hydrusnetwork",
             "repo": "hydrus",
-            "stars": 3176
+            "stars": 3177
           }
         },
         {
@@ -1071,7 +1071,7 @@
             "last_commit": "2024-08-06T13:15:18Z",
             "owner": "xinntao",
             "repo": "Real-ESRGAN",
-            "stars": 36602
+            "stars": 36604
           }
         },
         {
@@ -1101,7 +1101,7 @@
             "last_commit": "2024-08-17T12:09:12Z",
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21295
+            "stars": 21296
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2026-08-16T01:13:46Z",
             "owner": "AaronFeng753",
             "repo": "Waifu2x-Extension-GUI",
-            "stars": 16920
+            "stars": 16922
           }
         },
         {
@@ -1518,7 +1518,7 @@
             "last_commit": "2026-07-19T10:05:48Z",
             "owner": "lolishinshi",
             "repo": "imsearch",
-            "stars": 1074
+            "stars": 1075
           }
         },
         {
@@ -1554,7 +1554,7 @@
             "last_commit": "2026-08-26T13:37:51Z",
             "owner": "mihonapp",
             "repo": "mihon",
-            "stars": 23149
+            "stars": 23156
           }
         },
         {
@@ -2316,10 +2316,10 @@
             "archived": false,
             "id": 896924279,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:25:06Z",
+            "last_commit": "2026-08-27T16:22:08Z",
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 48473
+            "stars": 48488
           }
         },
         {
@@ -2334,7 +2334,7 @@
             "last_commit": "2026-03-10T18:25:25Z",
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22493
+            "stars": 22494
           }
         },
         {
@@ -2349,7 +2349,7 @@
             "last_commit": "2026-08-05T13:31:48Z",
             "owner": "shitagaki-lab",
             "repo": "see-through",
-            "stars": 3651
+            "stars": 3656
           }
         },
         {
@@ -2492,7 +2492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:18:18.106Z",
+    "last_updated": "2026-08-27T16:39:06.596Z",
     "original_repository_info": {
       "archived": false,
       "id": 55614000,
