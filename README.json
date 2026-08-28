@@ -12,11 +12,12 @@
             "archived": false,
             "id": 389984027,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:23:18Z",
+            "last_commit": "2026-08-27T21:06:40Z",
             "owner": "VOICEVOX",
             "repo": "voicevox",
             "stars": 3231
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "CjangCjengh",
             "repo": "MoeGoe",
             "stars": 2423
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mon",
             "repo": "0x40-web",
             "stars": 440
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mike2718",
             "repo": "moefm.sh",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Audio"
@@ -81,8 +85,9 @@
             "last_commit": "2026-03-04T03:04:09Z",
             "owner": "DIYgod",
             "repo": "DPlayer",
-            "stars": 16486
-          }
+            "stars": 16487
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "jabbany",
             "repo": "CommentCoreLibrary",
             "stars": 1929
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "jabbany",
             "repo": "ABPlayerHTML5",
             "stars": 882
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "weizhenye",
             "repo": "Danmaku",
             "stars": 743
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "m13253",
             "repo": "danmaku2ass",
             "stars": 620
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Danmaku"
@@ -163,7 +172,8 @@
             "owner": "soimort",
             "repo": "you-get",
             "stars": 56871
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -177,8 +187,9 @@
             "last_commit": "2026-08-01T09:53:37Z",
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 19338
-          }
+            "stars": 19344
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -192,8 +203,9 @@
             "last_commit": "2026-08-03T23:25:28Z",
             "owner": "kanasimi",
             "repo": "work_crawler",
-            "stars": 4194
-          }
+            "stars": 4198
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -204,11 +216,12 @@
             "archived": false,
             "id": 32276615,
             "language": "C++",
-            "last_commit": "2026-08-27T15:02:53Z",
+            "last_commit": "2026-08-27T23:08:14Z",
             "owner": "Bionus",
             "repo": "imgbrd-grabber",
             "stars": 3186
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "Nandaka",
             "repo": "PixivUtil2",
             "stars": 2698
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -237,8 +251,9 @@
             "last_commit": "2026-05-12T15:10:51Z",
             "owner": "ccloli",
             "repo": "E-Hentai-Downloader",
-            "stars": 2406
-          }
+            "stars": 2409
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "jasoneri",
             "repo": "ComicGUISpider",
             "stars": 854
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "Xonshiz",
             "repo": "comic-dl",
             "stars": 671
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "yaqinking",
             "repo": "DMHY",
             "stars": 476
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "Nandaka",
             "repo": "DanbooruDownloader",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "deepghs",
             "repo": "waifuc",
             "stars": 407
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "abc9070410",
             "repo": "JComicDownloader",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "abcfy2",
             "repo": "getComic",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "NguyenDanPhuong",
             "repo": "MangaRipper",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "lordfriend",
             "repo": "Albireo",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "fgRuslan",
             "repo": "BooruDownloader",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "soruly",
             "repo": "anilist-crawler",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "0xMH",
             "repo": "OkanimeDownloader",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "HakurouKen",
             "repo": "pixiv-illust",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "oovz",
             "repo": "Tako",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Downloaders"
@@ -468,8 +497,9 @@
             "last_commit": "2024-07-02T21:29:43Z",
             "owner": "nyaadevs",
             "repo": "nyaa",
-            "stars": 3394
-          }
+            "stars": 3396
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -484,7 +514,8 @@
             "owner": "upbit",
             "repo": "pixivpy",
             "stars": 2052
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -499,7 +530,8 @@
             "owner": "manami-project",
             "repo": "anime-offline-database",
             "stars": 1325
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -514,7 +546,8 @@
             "owner": "NyaaPantsu",
             "repo": "nyaa",
             "stars": 1002
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -528,8 +561,9 @@
             "last_commit": "2026-08-25T23:09:37Z",
             "owner": "bangumi-data",
             "repo": "bangumi-data",
-            "stars": 634
-          }
+            "stars": 636
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -544,7 +578,8 @@
             "owner": "VocaDB",
             "repo": "vocadb",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "shuiqukeyou",
             "repo": "E-HentaiCrawler",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "anilogia",
             "repo": "animedb",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "otakulogy",
             "repo": "anime-streaming",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -603,8 +641,9 @@
             "last_commit": "2026-08-26T12:18:07Z",
             "owner": "beeequeue",
             "repo": "arm-server",
-            "stars": 116
-          }
+            "stars": 117
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -619,7 +658,8 @@
             "owner": "erengy",
             "repo": "anime-relations",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -634,7 +674,8 @@
             "owner": "otakulogy",
             "repo": "manga-platform",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "Ervie",
             "repo": "Seiyuu.moe",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "zend10",
             "repo": "iakesi",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "sorz",
             "repo": "dhufufu",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "hykilpikonna",
             "repo": "AnimeBirthdaysDataset",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Data Sources"
@@ -714,8 +759,9 @@
             "last_commit": "2026-08-26T20:03:17Z",
             "owner": "hydrusnetwork",
             "repo": "hydrus",
-            "stars": 3177
-          }
+            "stars": 3179
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -726,11 +772,12 @@
             "archived": false,
             "id": 502760,
             "language": "Ruby",
-            "last_commit": "2026-08-26T19:52:57Z",
+            "last_commit": "2026-08-28T13:53:11Z",
             "owner": "danbooru",
             "repo": "danbooru",
-            "stars": 2791
-          }
+            "stars": 2793
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -745,7 +792,8 @@
             "owner": "rr-",
             "repo": "szurubooru",
             "stars": 995
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -760,7 +808,8 @@
             "owner": "moebooru",
             "repo": "moebooru",
             "stars": 607
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -775,7 +824,8 @@
             "owner": "zcyzcy88",
             "repo": "TagTable",
             "stars": 540
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -790,7 +840,8 @@
             "owner": "bakape",
             "repo": "hydron",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -805,7 +856,8 @@
             "owner": "bitinn",
             "repo": "animeshot2",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -820,7 +872,8 @@
             "owner": "Kycklingar",
             "repo": "PBooru",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -835,7 +888,8 @@
             "owner": "kingdido999",
             "repo": "atogatari",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -850,7 +904,8 @@
             "owner": "spillerrec",
             "repo": "BooruSurfer2",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -865,7 +920,8 @@
             "owner": "maxpowa",
             "repo": "aint.moe",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Image Board"
@@ -885,8 +941,9 @@
             "last_commit": "2025-03-19T06:43:54Z",
             "owner": "Doubiiu",
             "repo": "ToonCrafter",
-            "stars": 6004
-          }
+            "stars": 6006
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -900,8 +957,9 @@
             "last_commit": "2025-08-13T22:11:05Z",
             "owner": "lllyasviel",
             "repo": "Paints-UNDO",
-            "stars": 4067
-          }
+            "stars": 4068
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -916,7 +974,8 @@
             "owner": "Mukosame",
             "repo": "Anime2Sketch",
             "stars": 2128
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -931,7 +990,8 @@
             "owner": "OsciiArt",
             "repo": "DeepAA",
             "stars": 1576
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1006,8 @@
             "owner": "mattya",
             "repo": "chainer-DCGAN",
             "stars": 931
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1022,8 @@
             "owner": "jerryli27",
             "repo": "TwinGAN",
             "stars": 714
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -973,10 +1035,11 @@
             "id": 905221788,
             "language": "Python",
             "last_commit": "2025-04-15T06:21:33Z",
-            "owner": "ant-research",
+            "owner": "robbyant-research",
             "repo": "AniDoc",
             "stars": 572
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1054,8 @@
             "owner": "Aneureka",
             "repo": "animate-me",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1070,8 @@
             "owner": "a312863063",
             "repo": "seeprettyface-ganerator-dongman",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1086,8 @@
             "owner": "aratama",
             "repo": "kemonogen",
             "stars": 122
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1102,8 @@
             "owner": "vaexenc",
             "repo": "hololive-fusion-generator",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1118,8 @@
             "owner": "klimaleksus",
             "repo": "FindTwin",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Image Generation"
@@ -1071,8 +1139,9 @@
             "last_commit": "2024-08-06T13:15:18Z",
             "owner": "xinntao",
             "repo": "Real-ESRGAN",
-            "stars": 36604
-          }
+            "stars": 36623
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1087,7 +1156,8 @@
             "owner": "nagadomi",
             "repo": "waifu2x",
             "stars": 28213
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1101,8 +1171,9 @@
             "last_commit": "2024-08-17T12:09:12Z",
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21296
-          }
+            "stars": 21297
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1188,8 @@
             "owner": "lllyasviel",
             "repo": "style2paints",
             "stars": 18179
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1131,8 +1203,9 @@
             "last_commit": "2026-08-16T01:13:46Z",
             "owner": "AaronFeng753",
             "repo": "Waifu2x-Extension-GUI",
-            "stars": 16922
-          }
+            "stars": 16925
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1220,8 @@
             "owner": "TachibanaYoshino",
             "repo": "AnimeGAN",
             "stars": 4607
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1236,8 @@
             "owner": "pfnet",
             "repo": "PaintsChainer",
             "stars": 3762
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1252,8 @@
             "owner": "Kiteretsu77",
             "repo": "APISR",
             "stars": 1135
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1192,7 +1268,8 @@
             "owner": "SkyTNT",
             "repo": "anime-segmentation",
             "stars": 833
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1207,7 +1284,8 @@
             "owner": "lllyasviel",
             "repo": "MangaCraft",
             "stars": 698
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1300,8 @@
             "owner": "tsukumijima",
             "repo": "Real-ESRGAN-GUI",
             "stars": 613
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1316,8 @@
             "owner": "lllyasviel",
             "repo": "sketchKeras",
             "stars": 472
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1252,7 +1332,8 @@
             "owner": "deepghs",
             "repo": "imgutils",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1267,7 +1348,8 @@
             "owner": "tanakamura",
             "repo": "waifu2x-converter-cpp",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1282,7 +1364,8 @@
             "owner": "spillerrec",
             "repo": "Overmix",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1297,7 +1380,8 @@
             "owner": "moeoverflow",
             "repo": "animeloop-cli",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1312,7 +1396,8 @@
             "owner": "spillerrec",
             "repo": "cgCompress",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Image Processing"
@@ -1333,7 +1418,8 @@
             "owner": "nagadomi",
             "repo": "lbpcascade_animeface",
             "stars": 1982
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1434,8 @@
             "owner": "rezoo",
             "repo": "illustration2vec",
             "stars": 677
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1450,8 @@
             "owner": "nagadomi",
             "repo": "animeface-2009",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1466,8 @@
             "owner": "kanosawa",
             "repo": "anime_face_landmark_detection",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1482,8 @@
             "owner": "jerryli27",
             "repo": "AniSeg",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1498,8 @@
             "owner": "freedomofkeima",
             "repo": "transfer-learning-anime",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1514,8 @@
             "owner": "cheese-roll",
             "repo": "light-anime-face-detector",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1530,8 @@
             "owner": "nagadomi",
             "repo": "otama",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1453,7 +1546,8 @@
             "owner": "GINK03",
             "repo": "alt-i2v",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1468,7 +1562,8 @@
             "owner": "anthony-dipofi",
             "repo": "danbooru-tagger",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1483,7 +1578,8 @@
             "owner": "ksasao",
             "repo": "anime-character-detector",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Image Recognition"
@@ -1503,8 +1599,9 @@
             "last_commit": "2026-08-21T13:33:40Z",
             "owner": "soruly",
             "repo": "trace.moe",
-            "stars": 5022
-          }
+            "stars": 5025
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1518,8 +1615,9 @@
             "last_commit": "2026-07-19T10:05:48Z",
             "owner": "lolishinshi",
             "repo": "imsearch",
-            "stars": 1075
-          }
+            "stars": 1076
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1632,8 @@
             "owner": "ksasao",
             "repo": "Gochiusearch",
             "stars": 401
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Image Reverse Search"
@@ -1551,11 +1650,12 @@
             "archived": false,
             "id": 743704912,
             "language": "Kotlin",
-            "last_commit": "2026-08-26T13:37:51Z",
+            "last_commit": "2026-08-28T17:36:28Z",
             "owner": "mihonapp",
             "repo": "mihon",
-            "stars": 23156
-          }
+            "stars": 23190
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1570,7 +1670,8 @@
             "owner": "seven332",
             "repo": "EhViewer",
             "stars": 9795
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1585,7 +1686,8 @@
             "owner": "Yink",
             "repo": "Amadeus",
             "stars": 1061
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1600,7 +1702,8 @@
             "owner": "SuperMarcus",
             "repo": "NineAnimator",
             "stars": 820
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1615,7 +1718,8 @@
             "owner": "calvinaquino",
             "repo": "LNReader-Android",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1734,8 @@
             "owner": "AnimeNeko",
             "repo": "Atarashii",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1750,8 @@
             "owner": "hkalexling",
             "repo": "KonaBot-iOS",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Mobile Apps"
@@ -1666,7 +1772,8 @@
             "owner": "approvers",
             "repo": "RADWIMPS",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1681,7 +1788,8 @@
             "owner": "egoist",
             "repo": "hanabi",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1696,7 +1804,8 @@
             "owner": "consomme",
             "repo": "kemono_friends_lang",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1711,7 +1820,8 @@
             "owner": "masarakki",
             "repo": "nyaruko_lang",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1726,7 +1836,8 @@
             "owner": "GINK03",
             "repo": "kawaii-term",
             "stars": 117
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1741,7 +1852,8 @@
             "owner": "mervick",
             "repo": "php-aaencoder",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1756,7 +1868,8 @@
             "owner": "dolciss",
             "repo": "gochiusa_lang",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1771,7 +1884,8 @@
             "owner": "zonuexe",
             "repo": "hhiro_lang",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1786,7 +1900,8 @@
             "owner": "oppai",
             "repo": "We-i_lang",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Programming"
@@ -1807,7 +1922,8 @@
             "owner": "readbeyond",
             "repo": "aeneas",
             "stars": 2862
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1822,7 +1938,8 @@
             "owner": "tp7",
             "repo": "Sushi",
             "stars": 719
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1837,7 +1954,8 @@
             "owner": "weizhenye",
             "repo": "ASS",
             "stars": 664
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1852,7 +1970,8 @@
             "owner": "libass",
             "repo": "JavascriptSubtitlesOctopus",
             "stars": 494
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1867,7 +1986,8 @@
             "owner": "windrises",
             "repo": "dialogue.moe",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1882,7 +2002,8 @@
             "owner": "Arnavion",
             "repo": "libjass",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1897,7 +2018,8 @@
             "owner": "Irrational-Encoding-Wizardry",
             "repo": "guide.encode.moe",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1912,7 +2034,8 @@
             "owner": "KamigamiSub",
             "repo": "SubBuilder",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Subtitles"
@@ -1933,7 +2056,8 @@
             "owner": "BYVoid",
             "repo": "OpenCC",
             "stars": 9943
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1948,7 +2072,8 @@
             "owner": "erengy",
             "repo": "taiga",
             "stars": 2329
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1963,7 +2088,8 @@
             "owner": "hexenq",
             "repo": "kuroshiro",
             "stars": 987
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1978,7 +2104,8 @@
             "owner": "vn-tools",
             "repo": "arc_unpacker",
             "stars": 672
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -1993,7 +2120,8 @@
             "owner": "erengy",
             "repo": "anitomy",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2008,7 +2136,8 @@
             "owner": "moeoverflow",
             "repo": "comicbook",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2023,7 +2152,8 @@
             "owner": "Infiziert90",
             "repo": "getnative",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2038,7 +2168,8 @@
             "owner": "wattlebird",
             "repo": "ranking",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2053,7 +2184,8 @@
             "owner": "leminhyen2",
             "repo": "Visual-Novel-OCR",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2068,7 +2200,8 @@
             "owner": "egoist",
             "repo": "bgm",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2083,7 +2216,8 @@
             "owner": "Project-ShangriLa",
             "repo": "wikipedia_anime_graph",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Tools"
@@ -2104,7 +2238,8 @@
             "owner": "tegnike",
             "repo": "aituber-kit",
             "stars": 1054
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2119,7 +2254,8 @@
             "owner": "avgjs",
             "repo": "pixi-live2d",
             "stars": 683
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2134,7 +2270,8 @@
             "owner": "bangumi",
             "repo": "scripts",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2149,7 +2286,8 @@
             "owner": "bangumi-users",
             "repo": "awesome-bangumi",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2164,7 +2302,8 @@
             "owner": "ACGN-stock",
             "repo": "acgn-stock",
             "stars": 265
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2179,7 +2318,8 @@
             "owner": "SSShooter",
             "repo": "MyDiary-Vue",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2194,7 +2334,8 @@
             "owner": "yeemachine",
             "repo": "kalidoface",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2209,7 +2350,8 @@
             "owner": "miyaoka",
             "repo": "japari-pedia",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2224,7 +2366,8 @@
             "owner": "jiro4989",
             "repo": "ojosama-web",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2239,7 +2382,8 @@
             "owner": "lordfriend",
             "repo": "Deneb",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2254,7 +2398,8 @@
             "owner": "yutarochan",
             "repo": "WebLive2D",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2269,7 +2414,8 @@
             "owner": "cornguo",
             "repo": "nKemono",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2284,7 +2430,8 @@
             "owner": "chiakich",
             "repo": "Kemono_Adblocker",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2299,7 +2446,8 @@
             "owner": "ClassicOldSong",
             "repo": "KarasamaEgg",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Web"
@@ -2316,11 +2464,12 @@
             "archived": false,
             "id": 896924279,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T16:22:08Z",
+            "last_commit": "2026-08-28T17:33:28Z",
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 48488
-          }
+            "stars": 48530
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2334,8 +2483,9 @@
             "last_commit": "2026-03-10T18:25:25Z",
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22494
-          }
+            "stars": 22499
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2349,8 +2499,9 @@
             "last_commit": "2026-08-05T13:31:48Z",
             "owner": "shitagaki-lab",
             "repo": "see-through",
-            "stars": 3656
-          }
+            "stars": 3675
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2365,7 +2516,8 @@
             "owner": "uezo",
             "repo": "ChatdollKit",
             "stars": 1214
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2380,7 +2532,8 @@
             "owner": "hidefuku",
             "repo": "AnimeEffects",
             "stars": 766
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2395,7 +2548,8 @@
             "owner": "OysterQAQ",
             "repo": "ACG2vec",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2410,7 +2564,8 @@
             "owner": "vignetteapp",
             "repo": "vignette",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2425,7 +2580,8 @@
             "owner": "animenotifier",
             "repo": "notify.moe",
             "stars": 353
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2440,7 +2596,8 @@
             "owner": "rotejin",
             "repo": "MotionPNGTuber",
             "stars": 328
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2455,7 +2612,8 @@
             "owner": "TSKI433",
             "repo": "hime-display",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2470,7 +2628,8 @@
             "owner": "Irrational-Encoding-Wizardry",
             "repo": "guide.encode.moe",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         },
         {
           "node_type": "item",
@@ -2485,14 +2644,15 @@
             "owner": "hapo31",
             "repo": "marine_button",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-28T17:37:35.281Z"
         }
       ],
       "title": "Uncategorized"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:39:06.596Z",
+    "last_updated": "2026-08-28T17:37:35.281Z",
     "original_repository_info": {
       "archived": false,
       "id": 55614000,
@@ -2500,7 +2660,7 @@
       "last_commit": "2026-07-15T06:46:27Z",
       "owner": "soruly",
       "repo": "awesome-acg",
-      "stars": 1469
+      "stars": 1470
     },
     "original_repository_sha": "4b6bdf4c6306ff132c272d113130e43601198d7e",
     "enhanced_repository": "enhansome/enhansome-acg",
