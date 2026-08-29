@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター",
+            "homepage": "https://voicevox.hiroshiba.jp/",
             "id": 389984027,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T21:06:40Z",
+            "open_issues": 332,
             "owner": "VOICEVOX",
             "repo": "voicevox",
-            "stars": 3231
+            "stars": 3231,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Executable file for VITS inference",
+            "homepage": null,
             "id": 522119342,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-22T07:17:37Z",
+            "open_issues": 29,
             "owner": "CjangCjengh",
             "repo": "MoeGoe",
-            "stars": 2423
+            "stars": 2423,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretty images and colours",
+            "homepage": "http://0x40.mon.im/",
             "id": 43212318,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-20T06:17:07Z",
+            "open_issues": 4,
             "owner": "mon",
             "repo": "0x40-web",
-            "stars": 440
+            "stars": 440,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "萌否电台bash脚本客户端",
+            "homepage": null,
             "id": 13520173,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-03-20T06:58:34Z",
+            "open_issues": 0,
             "owner": "mike2718",
             "repo": "moefm.sh",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -80,12 +100,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":lollipop: Wow, such a lovely HTML5 danmaku video player",
+            "homepage": "https://dplayer.diygod.dev",
             "id": 57974334,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-04T03:04:09Z",
+            "open_issues": 268,
             "owner": "DIYgod",
             "repo": "DPlayer",
-            "stars": 16487
+            "stars": 16487,
+            "topics": [
+              "danmaku",
+              "dash",
+              "dplayer",
+              "flv",
+              "hls",
+              "player",
+              "video",
+              "webtorrent"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -96,12 +130,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。",
+            "homepage": "http://jabbany.github.io/CommentCoreLibrary/demo",
             "id": 3789345,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-17T18:14:03Z",
+            "open_issues": 20,
             "owner": "jabbany",
             "repo": "CommentCoreLibrary",
-            "stars": 1929
+            "stars": 1929,
+            "topics": [
+              "comment",
+              "comments-streaming",
+              "danmaku",
+              "danmu",
+              "html5",
+              "typescript",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -112,12 +159,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器",
+            "homepage": "https://kanoha.org/tags/ABPlayerHTML5/",
             "id": 2931920,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-04-14T18:57:33Z",
+            "open_issues": 7,
             "owner": "jabbany",
             "repo": "ABPlayerHTML5",
-            "stars": 882
+            "stars": 882,
+            "topics": [
+              "acfun",
+              "bilibili",
+              "danmaku-comments",
+              "danmu",
+              "html",
+              "javascript",
+              "player",
+              "video-player"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -128,12 +189,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high-performance JavaScript danmaku engine. 高性能弹幕引擎库",
+            "homepage": "https://danmaku.js.org",
             "id": 15039456,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T04:06:55Z",
+            "open_issues": 1,
             "owner": "weizhenye",
             "repo": "Danmaku",
-            "stars": 743
+            "stars": 743,
+            "topics": [
+              "danmaku",
+              "danmu"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -144,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert comments from Niconico/AcFun/bilibili to ASS format",
+            "homepage": "http://m13253.blogspot.com/2013/11/play-danmaku-offline-danmaku2ass.html",
             "id": 12841039,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-28T10:31:21Z",
+            "open_issues": 5,
             "owner": "m13253",
             "repo": "danmaku2ass",
-            "stars": 620
+            "stars": 620,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -166,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":arrow_double_down: Dumb downloader that scrapes the web",
+            "homepage": "https://you-get.org/",
             "id": 5483330,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T07:23:27Z",
+            "open_issues": 386,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56871
+            "stars": 56870,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -182,12 +261,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line program to download image galleries and collections from several image hosting sites",
+            "homepage": "https://discord.gg/rSzQwRvGnE",
             "id": 25129800,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-01T09:53:37Z",
+            "open_issues": 1150,
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 19344
+            "stars": 19347,
+            "topics": [
+              "danbooru",
+              "deviantart",
+              "downloader",
+              "gallery",
+              "kemono",
+              "mangadex",
+              "pixiv",
+              "tumblr",
+              "twitter"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -198,12 +292,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.",
+            "homepage": null,
             "id": 72626285,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-03T23:25:28Z",
+            "open_issues": 40,
             "owner": "kanasimi",
             "repo": "work_crawler",
-            "stars": 4198
+            "stars": 4198,
+            "topics": [
+              "cejs",
+              "comic-downloader",
+              "comics",
+              "crawler",
+              "download-comic",
+              "downloader",
+              "ebook",
+              "epub",
+              "manga",
+              "manga-downloader",
+              "narou",
+              "novel-downloader",
+              "novels",
+              "webcomics"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -214,12 +328,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Very customizable imageboard/booru downloader with powerful filenaming features.",
+            "homepage": "https://www.bionus.org/imgbrd-grabber/",
             "id": 32276615,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T23:08:14Z",
+            "open_issues": 438,
             "owner": "Bionus",
             "repo": "imgbrd-grabber",
-            "stars": 3186
+            "stars": 3186,
+            "topics": [
+              "android",
+              "booru",
+              "danbooru",
+              "downloader",
+              "gelbooru",
+              "grabber",
+              "imageboard",
+              "linux",
+              "macos",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -230,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download images from Pixiv and more!",
+            "homepage": "http://nandaka.devnull.zone/",
             "id": 2864002,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-27T05:20:57Z",
+            "open_issues": 33,
             "owner": "Nandaka",
             "repo": "PixivUtil2",
-            "stars": 2698
+            "stars": 2698,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -246,12 +381,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download E-Hentai archive as zip file",
+            "homepage": null,
             "id": 37268415,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-12T15:10:51Z",
+            "open_issues": 107,
             "owner": "ccloli",
             "repo": "E-Hentai-Downloader",
-            "stars": 2409
+            "stars": 2409,
+            "topics": [
+              "e-hentai",
+              "exhentai",
+              "userscript"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -262,12 +406,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "拷贝漫画, Māngabz, jestful, 漫画柜, 动漫屋, 禁漫天堂, wnacg, exhentai, nhentai, hitomi.la, h-comic , kemono, danbooru ..etc. | i18n / pypi",
+            "homepage": "https://cgs.101114105.xyz",
             "id": 228387695,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T15:21:45Z",
+            "open_issues": 0,
             "owner": "jasoneri",
             "repo": "ComicGUISpider",
-            "stars": 854
+            "stars": 854,
+            "topics": [
+              "comic",
+              "copymanga",
+              "danbooru",
+              "dm5",
+              "exhentai",
+              "hitomi",
+              "jmcomic",
+              "kemono",
+              "macos",
+              "manga",
+              "mangabz",
+              "manhuagui",
+              "nhentai",
+              "wnacg"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -278,12 +442,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Comic-dl is a command line tool to download manga and comics from various comic and manga sites. Supported sites : readcomiconline.to, mangafox.me, comic naver and many more.",
+            "homepage": "https://github.com/Xonshiz/comic-dl",
             "id": 73617659,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-31T14:42:13Z",
+            "open_issues": 35,
             "owner": "Xonshiz",
             "repo": "comic-dl",
-            "stars": 671
+            "stars": 672,
+            "topics": [
+              "automation",
+              "comics",
+              "debian",
+              "manga",
+              "phantomjs",
+              "python-script",
+              "python-support",
+              "scraping",
+              "scrapper",
+              "scrapping",
+              "web",
+              "youtube-dl"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -294,12 +476,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Easily download/autodownload torrent(s) from share.dmhy.org/acg.rip etc. sites for OS X",
+            "homepage": null,
             "id": 42385656,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2023-11-16T06:28:20Z",
+            "open_issues": 1,
             "owner": "yaqinking",
             "repo": "DMHY",
-            "stars": 476
+            "stars": 476,
+            "topics": [
+              "dmhy",
+              "macos",
+              "objective-c",
+              "torrent"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -310,12 +502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "*booru image downloader",
+            "homepage": "http://nandaka.devnull.zone/",
             "id": 3128832,
             "language": "C#",
+            "license": null,
             "last_commit": "2025-01-16T08:36:10Z",
+            "open_issues": 106,
             "owner": "Nandaka",
             "repo": "DanbooruDownloader",
-            "stars": 429
+            "stars": 429,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -326,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient Train Data Collector for Anime Waifu",
+            "homepage": "https://deepghs.github.io/waifuc/",
             "id": 659060752,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-24T08:05:00Z",
+            "open_issues": 16,
             "owner": "deepghs",
             "repo": "waifuc",
-            "stars": 407
+            "stars": 407,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -342,12 +544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool which has the ability to download the online comics and novels from some china websites.",
+            "homepage": null,
             "id": 5482826,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-05-29T14:20:49Z",
+            "open_issues": 54,
             "owner": "abc9070410",
             "repo": "JComicDownloader",
-            "stars": 251
+            "stars": 251,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -358,12 +565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Download tencent comic-下载腾讯漫画",
+            "homepage": "http://my.oschina.net/abcfy2/blog/294668",
             "id": 21272447,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-20T03:16:01Z",
+            "open_issues": 1,
             "owner": "abcfy2",
             "repo": "getComic",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -374,12 +586,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This software helps you download manga (Japanese Comic) from several websites for your offline viewing. ",
+            "homepage": null,
             "id": 64289836,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-06-15T06:44:33Z",
+            "open_issues": 21,
             "owner": "NguyenDanPhuong",
             "repo": "MangaRipper",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "downloader",
+              "manga"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -390,12 +610,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A bangumi auto download and management project.",
+            "homepage": null,
             "id": 52969605,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2023-01-29T07:59:01Z",
+            "open_issues": 13,
             "owner": "lordfriend",
             "repo": "Albireo",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "anime",
+              "bangumi",
+              "dmhy",
+              "self-hosted",
+              "video-streaming-server"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -406,12 +637,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gelbooru and Danbooru downloader",
+            "homepage": "https://fgruslan.github.io/BooruDownloader",
             "id": 175266536,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-04-15T07:27:18Z",
+            "open_issues": 2,
             "owner": "fgRuslan",
             "repo": "BooruDownloader",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "anime",
+              "anime-download",
+              "anime-downloader",
+              "booru",
+              "booru-ripper",
+              "danbooru",
+              "danbooru-downloader",
+              "downloader",
+              "downloaders",
+              "gelbooru",
+              "hentai",
+              "hentai-downloader",
+              "nsfw",
+              "nsfw-dl",
+              "ripper"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -422,12 +674,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Crawl data from anilist API and store as JSON file",
+            "homepage": null,
             "id": 77286279,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:02:27Z",
+            "open_issues": 1,
             "owner": "soruly",
             "repo": "anilist-crawler",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "anilist",
+              "anime",
+              "crawler"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -438,12 +699,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scrape your favorite Anime from Okanime.com without effort ",
+            "homepage": null,
             "id": 98456165,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-18T12:58:15Z",
+            "open_issues": 0,
             "owner": "0xMH",
             "repo": "OkanimeDownloader",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "anime",
+              "beautifulsoup",
+              "python",
+              "python3",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -454,12 +726,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A third-party Node.js library for Pixiv.",
+            "homepage": null,
             "id": 69036316,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-11-21T02:04:43Z",
+            "open_issues": 0,
             "owner": "HakurouKen",
             "repo": "pixiv-illust",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "pixiv",
+              "pixiv-illust"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -470,12 +750,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Batch-download manga chapters from Chrome's Side Panel. Queue, retry, and export clean CBZ/ZIP files — without leaving your reading tab.",
+            "homepage": null,
             "id": 1057550082,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T13:44:35Z",
+            "open_issues": 5,
             "owner": "oovz",
             "repo": "Tako",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "chrome-extension",
+              "comic",
+              "manga",
+              "mangadex",
+              "manhua",
+              "manhwa"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -492,12 +784,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bittorrent software for cats",
+            "homepage": null,
             "id": 91119673,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-02T21:29:43Z",
+            "open_issues": 62,
             "owner": "nyaadevs",
             "repo": "nyaa",
-            "stars": 3396
+            "stars": 3395,
+            "topics": [
+              "anime",
+              "bittorrent",
+              "elasticsearch",
+              "flask",
+              "nyaa",
+              "python",
+              "torrent",
+              "tracker"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -508,12 +814,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pixiv API for Python",
+            "homepage": "https://pypi.org/project/PixivPy3/#files",
             "id": 10865487,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2025-07-31T11:05:43Z",
+            "open_issues": 57,
             "owner": "upbit",
             "repo": "pixivpy",
-            "stars": 2052
+            "stars": 2052,
+            "topics": [
+              "pixiv",
+              "pixiv-api",
+              "pypi"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -524,12 +839,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A JSON based anime dataset containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more...",
+            "homepage": null,
             "id": 104403153,
             "language": "Makefile",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-04T15:39:58Z",
+            "open_issues": 0,
             "owner": "manami-project",
             "repo": "anime-offline-database",
-            "stars": 1325
+            "stars": 1325,
+            "topics": [
+              "anidb",
+              "anilist",
+              "anime",
+              "anime-db",
+              "anime-planet",
+              "anisearch",
+              "database",
+              "dataset",
+              "json",
+              "kitsu",
+              "kitsu-io",
+              "livechart",
+              "livechartme",
+              "mal",
+              "metadata",
+              "movies",
+              "myanimelist",
+              "series",
+              "simkl"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -540,12 +880,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nyaa.se replacement written in golang",
+            "homepage": null,
             "id": 90023962,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-09-20T05:49:29Z",
+            "open_issues": 70,
             "owner": "NyaaPantsu",
             "repo": "nyaa",
-            "stars": 1002
+            "stars": 1001,
+            "topics": [
+              "anime",
+              "archive",
+              "database",
+              "docker",
+              "golang",
+              "nyaa",
+              "nyaa-replacement",
+              "tracker"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -556,12 +910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Raw data for Japanese Anime",
+            "homepage": null,
             "id": 67352026,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-25T23:09:37Z",
+            "open_issues": 6,
             "owner": "bangumi-data",
             "repo": "bangumi-data",
-            "stars": 636
+            "stars": 636,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -572,12 +931,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VocaDB is a Vocaloid Database with translated artists, albums, music videos and more.",
+            "homepage": "https://vocadb.net",
             "id": 12994924,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-12T17:34:24Z",
+            "open_issues": 391,
             "owner": "VocaDB",
             "repo": "vocadb",
-            "stars": 474
+            "stars": 474,
+            "topics": [
+              "albums",
+              "asp-net-core",
+              "csharp",
+              "css",
+              "hatsune-miku",
+              "html",
+              "japan",
+              "mdx",
+              "music",
+              "music-database",
+              "music-video",
+              "nico-nico-douga",
+              "nnd",
+              "react",
+              "songs",
+              "typescript",
+              "utau",
+              "vocadb",
+              "vocaloid",
+              "vocaloid-database"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -588,12 +973,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 82816412,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-08-02T14:34:09Z",
+            "open_issues": 0,
             "owner": "shuiqukeyou",
             "repo": "E-HentaiCrawler",
-            "stars": 390
+            "stars": 390,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -604,12 +994,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "約100年に渡るアニメ作品リストデータベース",
+            "homepage": "https://anilogia.github.io/animedb/",
             "id": 70599853,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-26T14:43:03Z",
+            "open_issues": 9,
             "owner": "anilogia",
             "repo": "animedb",
-            "stars": 332
+            "stars": 332,
+            "topics": [
+              "anime",
+              "data"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -620,12 +1018,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📺 A curated list of worldwide legal anime streaming.",
+            "homepage": "https://otakulogy.github.io/anime-streaming/",
             "id": 136831537,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-27T13:30:28Z",
+            "open_issues": 0,
             "owner": "otakulogy",
             "repo": "anime-streaming",
-            "stars": 121
+            "stars": 122,
+            "topics": [
+              "anime",
+              "anime-streaming",
+              "curated-list",
+              "movies",
+              "streaming-services",
+              "tv"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -636,12 +1046,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📃 A service for mapping Anime IDs between Database Websites",
+            "homepage": "https://arm.haglund.dev/docs",
             "id": 167745427,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T12:18:07Z",
+            "open_issues": 4,
             "owner": "beeequeue",
             "repo": "arm-server",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "anidb",
+              "anilist",
+              "anime",
+              "anime-db",
+              "api",
+              "database",
+              "kitsu",
+              "mal",
+              "metadata",
+              "offline-database",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -652,12 +1079,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Episode redirections for Taiga",
+            "homepage": "https://github.com/erengy/taiga",
             "id": 65087809,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-08T09:24:08Z",
+            "open_issues": 4,
             "owner": "erengy",
             "repo": "anime-relations",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "anilist",
+              "anime",
+              "kitsu",
+              "myanimelist"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -668,12 +1105,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚 A curated list of worldwide legal manga reading site.",
+            "homepage": "https://otakulogy.github.io/manga-platform/",
             "id": 136832428,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-14T09:37:42Z",
+            "open_issues": 1,
             "owner": "otakulogy",
             "repo": "manga-platform",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "curated-list",
+              "manga",
+              "manga-reading",
+              "subscription"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -684,12 +1131,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A webpage searching for collaborate works between seiyuu.",
+            "homepage": null,
             "id": 124591709,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-06-15T19:49:22Z",
+            "open_issues": 7,
             "owner": "Ervie",
             "repo": "Seiyuu.moe",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "comparison",
+              "nuxt",
+              "searching",
+              "seiyuu",
+              "vue",
+              "vuejs2",
+              "vuetify"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -700,12 +1160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A website to map real life anime locations to assist your next anime pilgrimage.",
+            "homepage": "https://www.iakesi.net",
             "id": 270068432,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2020-09-13T12:03:23Z",
+            "open_issues": 0,
             "owner": "zend10",
             "repo": "iakesi",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -716,12 +1181,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dhufufu~ API Database for ACG sites & Related Services 有关各种ACG网站的API啦神马的",
+            "homepage": null,
             "id": 26541097,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-11-19T13:38:55Z",
+            "open_issues": 0,
             "owner": "sorz",
             "repo": "dhufufu",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -732,12 +1202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Anime birthday dataset from bd.fan-web.jp]",
+            "homepage": null,
             "id": 1042840498,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-23T06:53:17Z",
+            "open_issues": 0,
             "owner": "hykilpikonna",
             "repo": "AnimeBirthdaysDataset",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -754,12 +1229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.",
+            "homepage": "http://hydrusnetwork.github.io/hydrus/",
             "id": 8285925,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T20:03:17Z",
+            "open_issues": 816,
             "owner": "hydrusnetwork",
             "repo": "hydrus",
-            "stars": 3179
+            "stars": 3179,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -770,12 +1250,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A taggable image board written in Rails.",
+            "homepage": null,
             "id": 502760,
             "language": "Ruby",
-            "last_commit": "2026-08-28T13:53:11Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:11:53Z",
+            "open_issues": 468,
             "owner": "danbooru",
             "repo": "danbooru",
-            "stars": 2793
+            "stars": 2794,
+            "topics": [
+              "anime",
+              "booru",
+              "danbooru",
+              "imageboard",
+              "rails",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -786,12 +1278,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image board engine, Danbooru-style.",
+            "homepage": null,
             "id": 13235608,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-27T13:05:33Z",
+            "open_issues": 193,
             "owner": "rr-",
             "repo": "szurubooru",
-            "stars": 995
+            "stars": 995,
+            "topics": [
+              "danbooru",
+              "es6",
+              "image-board-engine",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -802,12 +1304,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Moebooru, a fork of danbooru1 that has been heavily modified",
+            "homepage": null,
             "id": 20473887,
             "language": "Ruby",
+            "license": "ISC",
             "last_commit": "2026-08-12T18:34:47Z",
+            "open_issues": 30,
             "owner": "moebooru",
             "repo": "moebooru",
-            "stars": 607
+            "stars": 607,
+            "topics": [
+              "coffeescript",
+              "hacktoberfest",
+              "imagemagick",
+              "postgresql",
+              "ruby",
+              "rubyonrails"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -818,12 +1332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Dump] gelbooru, danbooru, sankaku complex, konachan, yande.re | keywords sheet, experience for image search (关键词/搜图经验)",
+            "homepage": null,
             "id": 90603329,
             "language": "HTML",
+            "license": null,
             "last_commit": "2018-10-09T07:19:08Z",
+            "open_issues": 4,
             "owner": "zcyzcy88",
             "repo": "TagTable",
-            "stars": 540
+            "stars": 540,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -834,12 +1353,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "media tagger and organizer",
+            "homepage": null,
             "id": 79231247,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2022-10-02T13:39:48Z",
+            "open_issues": 20,
             "owner": "bakape",
             "repo": "hydron",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "booru",
+              "cpp",
+              "go",
+              "golang",
+              "hydrus",
+              "hydrusnetwork",
+              "media",
+              "organizer",
+              "tagging"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -850,12 +1384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open, portable, searchable image repository with telegram bot integration.",
+            "homepage": "https://as2.bitinn.net/",
             "id": 151237096,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2023-03-13T21:49:51Z",
+            "open_issues": 4,
             "owner": "bitinn",
             "repo": "animeshot2",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -866,12 +1405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 146999310,
             "language": "Go",
+            "license": "Unlicense",
             "last_commit": "2024-08-31T17:44:33Z",
+            "open_issues": 20,
             "owner": "Kycklingar",
             "repo": "PBooru",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -882,12 +1426,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎎 Share and discover your favorite anime characters.",
+            "homepage": "https://atogatari.desmonding.me",
             "id": 81904527,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-22T07:05:25Z",
+            "open_issues": 10,
             "owner": "kingdido999",
             "repo": "atogatari",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "anime",
+              "character",
+              "image",
+              "screenshot"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -898,12 +1452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides a consistent and space-efficient interface to Booru-like image boards.",
+            "homepage": null,
             "id": 17994930,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2020-04-25T20:12:30Z",
+            "open_issues": 23,
             "owner": "spillerrec",
             "repo": "BooruSurfer2",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -914,12 +1473,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Your waifu aint moe.",
+            "homepage": "http://aint.moe/",
             "id": 63395252,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-07-18T16:41:40Z",
+            "open_issues": 1,
             "owner": "maxpowa",
             "repo": "aint.moe",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "abandoned",
+              "cancc"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -936,12 +1503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH Asia 2024, Journal Track] ToonCrafter: Generative Cartoon Interpolation",
+            "homepage": "https://doubiiu.github.io/projects/ToonCrafter/",
             "id": 807266851,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-19T06:43:54Z",
+            "open_issues": 57,
             "owner": "Doubiiu",
             "repo": "ToonCrafter",
-            "stars": 6006
+            "stars": 6005,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -952,12 +1524,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understand Human Behavior to Align True Needs",
+            "homepage": null,
             "id": 825429436,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-13T22:11:05Z",
+            "open_issues": 70,
             "owner": "lllyasviel",
             "repo": "Paints-UNDO",
-            "stars": 4068
+            "stars": 4068,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -968,12 +1545,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sketch extractor for anime/illustration.",
+            "homepage": null,
             "id": 356085273,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-16T06:44:46Z",
+            "open_issues": 7,
             "owner": "Mukosame",
             "repo": "Anime2Sketch",
-            "stars": 2128
+            "stars": 2129,
+            "topics": [
+              "anime",
+              "comic",
+              "computer-vision",
+              "deep-learning",
+              "gan",
+              "gans",
+              "generative-adversarial-network",
+              "gradio",
+              "image-generation",
+              "manga",
+              "pytorch",
+              "sketch",
+              "wacv"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -984,12 +1580,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "make ASCII Art by Deep Learning",
+            "homepage": null,
             "id": 83964481,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-07-14T02:47:40Z",
+            "open_issues": 2,
             "owner": "OsciiArt",
             "repo": "DeepAA",
-            "stars": 1576
+            "stars": 1576,
+            "topics": [
+              "ascii-art",
+              "deep-learning",
+              "keras",
+              "python",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1000,12 +1607,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chainer implementation of Deep Convolutional Generative Adversarial Network",
+            "homepage": null,
             "id": 48036514,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-07-06T16:48:15Z",
+            "open_issues": 7,
             "owner": "mattya",
             "repo": "chainer-DCGAN",
-            "stars": 931
+            "stars": 931,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1016,12 +1628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Twin-GAN -- Unpaired Cross-Domain Image Translation with Weight-Sharing GANs",
+            "homepage": null,
             "id": 130006211,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-22T02:46:57Z",
+            "open_issues": 21,
             "owner": "jerryli27",
             "repo": "TwinGAN",
-            "stars": 714
+            "stars": 714,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1032,12 +1649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'25] Official Implementations for Paper - AniDoc: Animation Creation Made Easier",
+            "homepage": "https://yihao-meng.github.io/AniDoc_demo/",
             "id": 905221788,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-15T06:21:33Z",
+            "open_issues": 5,
             "owner": "robbyant-research",
             "repo": "AniDoc",
-            "stars": 572
+            "stars": 572,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1048,12 +1670,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍭 A miniapp to convert selfie to anime.",
+            "homepage": "https://zhuanlan.zhihu.com/p/79389141",
             "id": 203343371,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-02-18T08:04:23Z",
+            "open_issues": 17,
             "owner": "Aneureka",
             "repo": "animate-me",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1064,12 +1691,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "这是一个用StyleGAN训练出的动漫脸生成器",
+            "homepage": null,
             "id": 191372891,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-03T07:31:19Z",
+            "open_issues": 2,
             "owner": "a312863063",
             "repo": "seeprettyface-ganerator-dongman",
-            "stars": 151
+            "stars": 151,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1080,12 +1712,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kemono Friends Logo Generator",
+            "homepage": "https://aratama.github.io/kemonogen/",
             "id": 82776106,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-25T03:57:42Z",
+            "open_issues": 1,
             "owner": "aratama",
             "repo": "kemonogen",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1096,12 +1733,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamically generate combinations of names and portraits of Hololive characters automatically on the fly.",
+            "homepage": "https://hololive-fusion-generator.toomuchofheaven.com",
             "id": 349467522,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-23T21:34:27Z",
+            "open_issues": 0,
             "owner": "vaexenc",
             "repo": "hololive-fusion-generator",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "hololive",
+              "vtuber",
+              "vtubers"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1112,12 +1758,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 179154910,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2019-04-03T07:23:31Z",
+            "open_issues": 0,
             "owner": "klimaleksus",
             "repo": "FindTwin",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -1134,12 +1785,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+            "homepage": null,
             "id": 387326890,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-08-06T13:15:18Z",
+            "open_issues": 646,
             "owner": "xinntao",
             "repo": "Real-ESRGAN",
-            "stars": 36623
+            "stars": 36624,
+            "topics": [
+              "amine",
+              "denoise",
+              "esrgan",
+              "image-restoration",
+              "jpeg-compression",
+              "pytorch",
+              "real-esrgan",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1150,12 +1815,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Image Super-Resolution for Anime-Style Art",
+            "homepage": "http://waifu2x.udp.jp/ ",
             "id": 35756351,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-05-04T00:50:48Z",
+            "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28213
+            "stars": 28212,
+            "topics": [
+              "super-resolution",
+              "torch",
+              "waifu2x"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1166,12 +1840,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A High-Quality Real Time Upscaler for Anime Video",
+            "homepage": "https://bloc97.github.io/Anime4K/",
             "id": 202234517,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-08-17T12:09:12Z",
+            "open_issues": 123,
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21297
+            "stars": 21297,
+            "topics": [
+              "anime",
+              "anime-upscaling",
+              "anime4k",
+              "cnn",
+              "computer-graphics",
+              "convolutional-neural-networks",
+              "denoising-algorithms",
+              "neural-networks",
+              "super-resolution",
+              "upsampling",
+              "upscaling",
+              "video",
+              "video-processing"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1182,12 +1875,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)",
+            "homepage": null,
             "id": 93354260,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-01T02:02:00Z",
+            "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18179
+            "stars": 18178,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1198,12 +1896,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.",
+            "homepage": "https://patreon.com/aaronfeng",
             "id": 235070415,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T01:13:46Z",
+            "open_issues": 93,
             "owner": "AaronFeng753",
             "repo": "Waifu2x-Extension-GUI",
-            "stars": 16925
+            "stars": 16926,
+            "topics": [
+              "anime",
+              "anime4k",
+              "esrgan",
+              "frame-interpolation",
+              "image-enlarger",
+              "ncnn",
+              "noise-reduction",
+              "rtx-video-super-resolution",
+              "rtx-vsr",
+              "super-resolution",
+              "upscaling",
+              "video",
+              "video-enlarger",
+              "video-frame-interpolation",
+              "video-interpolation",
+              "video-processing",
+              "video-super-resolution",
+              "vulkan",
+              "waifu2x",
+              "waifu2x-ncnn-vulkan"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1214,12 +1938,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tensorflow implementation of AnimeGAN for fast photo animation  ! This is the Open source of the paper 「AnimeGAN: a novel lightweight GAN for photo animation」, which uses the GAN framwork to transform real-world photos into anime images.",
+            "homepage": null,
             "id": 196959890,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-03T16:38:02Z",
+            "open_issues": 17,
             "owner": "TachibanaYoshino",
             "repo": "AnimeGAN",
-            "stars": 4607
+            "stars": 4607,
+            "topics": [
+              "anime-images",
+              "animegan",
+              "hayao-style",
+              "photo-animation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1230,12 +1965,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "line drawing colorization using chainer",
+            "homepage": "https://paintschainer.preferred.tech/",
             "id": 80181687,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2019-01-06T02:35:33Z",
+            "open_issues": 43,
             "owner": "pfnet",
             "repo": "PaintsChainer",
-            "stars": 3762
+            "stars": 3762,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1246,12 +1986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024)",
+            "homepage": null,
             "id": 766000879,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-16T00:57:56Z",
+            "open_issues": 21,
             "owner": "Kiteretsu77",
             "repo": "APISR",
-            "stars": 1135
+            "stars": 1135,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1262,12 +2007,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "high-accuracy segmentation for anime character",
+            "homepage": null,
             "id": 524606306,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-21T02:00:35Z",
+            "open_issues": 10,
             "owner": "SkyTNT",
             "repo": "anime-segmentation",
-            "stars": 833
+            "stars": 833,
+            "topics": [
+              "anime",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1278,12 +2031,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project has been abandoned.",
+            "homepage": null,
             "id": 147919538,
             "language": null,
+            "license": null,
             "last_commit": "2020-04-03T09:28:20Z",
+            "open_issues": 1,
             "owner": "lllyasviel",
             "repo": "MangaCraft",
-            "stars": 698
+            "stars": 698,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1294,12 +2052,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lovely Real-ESRGAN / Real-CUGAN GUI Wrapper",
+            "homepage": null,
             "id": 534374489,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2022-10-19T07:03:35Z",
+            "open_issues": 3,
             "owner": "tsukumijima",
             "repo": "Real-ESRGAN-GUI",
-            "stars": 613
+            "stars": 613,
+            "topics": [
+              "anime",
+              "esrgan",
+              "flutter",
+              "flutter-app",
+              "flutter-apps",
+              "real-cugan",
+              "real-esrgan",
+              "realcugan",
+              "realesrgan",
+              "super-resolution"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1310,12 +2084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an u-net with some algorithm to take sketch from paints",
+            "homepage": null,
             "id": 90269511,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-04T15:43:17Z",
+            "open_issues": 5,
             "owner": "lllyasviel",
             "repo": "sketchKeras",
-            "stars": 472
+            "stars": 472,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1326,12 +2105,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A convenient and user-friendly anime-style image data processing library that integrates various advanced anime-style image processing models",
+            "homepage": "https://dghs-imgutils.deepghs.org/",
             "id": 611058264,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-11T11:27:32Z",
+            "open_issues": 18,
             "owner": "deepghs",
             "repo": "imgutils",
-            "stars": 412
+            "stars": 412,
+            "topics": [
+              "anime",
+              "image-processing",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1342,12 +2130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "waifu2x(original : https://github.com/nagadomi/waifu2x) re-implementation in C++ using OpenCV ",
+            "homepage": null,
             "id": 36503337,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2020-05-30T15:22:10Z",
+            "open_issues": 13,
             "owner": "tanakamura",
             "repo": "waifu2x-converter-cpp",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1358,12 +2151,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic anime screenshot stitching in high quality",
+            "homepage": "http://spillerrec.dk/category/software/programs/overmix/",
             "id": 16194084,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2024-05-16T18:32:02Z",
+            "open_issues": 62,
             "owner": "spillerrec",
             "repo": "Overmix",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "anime",
+              "cpp",
+              "image-processing",
+              "image-stitching",
+              "qt"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1374,12 +2178,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically detect and cut anime loops.",
+            "homepage": "https://animeloop.org",
             "id": 81578762,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2019-12-18T12:33:08Z",
+            "open_issues": 0,
             "owner": "moeoverflow",
             "repo": "animeloop-cli",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "anime",
+              "animeloop",
+              "loop",
+              "loop-video",
+              "opencv",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1390,12 +2206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficiently store Visual Novel cgs by using a multi-image format for storing all variations of one image in one file. This way, only the differences need to be stored which reduces the file size significantly.",
+            "homepage": null,
             "id": 16447755,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2021-01-23T12:57:18Z",
+            "open_issues": 16,
             "owner": "spillerrec",
             "repo": "cgCompress",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -1412,12 +2233,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Face detector for anime/manga using OpenCV",
+            "homepage": null,
             "id": 26305793,
             "language": null,
+            "license": null,
             "last_commit": "2018-11-23T05:53:31Z",
+            "open_issues": 7,
             "owner": "nagadomi",
             "repo": "lbpcascade_animeface",
-            "stars": 1982
+            "stars": 1982,
+            "topics": [
+              "face-detector",
+              "opencv"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1428,12 +2257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple deep learning library for estimating a set of tags and extracting semantic feature vectors from given illustrations.",
+            "homepage": null,
             "id": 43010401,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-01-18T10:08:11Z",
+            "open_issues": 22,
             "owner": "rezoo",
             "repo": "illustration2vec",
-            "stars": 677
+            "stars": 677,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1444,12 +2278,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Face and Landmark Detector for Anime/Manga. This is 2009s version of Imager::AnimeFace, but it works on recent system.",
+            "homepage": null,
             "id": 82335980,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2018-07-25T06:58:14Z",
+            "open_issues": 5,
             "owner": "nagadomi",
             "repo": "animeface-2009",
-            "stars": 327
+            "stars": 327,
+            "topics": [
+              "face-detector"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1460,12 +2301,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anime face landmark detection by deep cascaded regression",
+            "homepage": null,
             "id": 220654474,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-11-16T08:13:17Z",
+            "open_issues": 2,
             "owner": "kanosawa",
             "repo": "anime_face_landmark_detection",
-            "stars": 253
+            "stars": 253,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1476,12 +2322,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A faster-rcnn model for anime character segmentation.",
+            "homepage": null,
             "id": 146223769,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-08-09T10:19:31Z",
+            "open_issues": 7,
             "owner": "jerryli27",
             "repo": "AniSeg",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1492,12 +2343,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transfer Learning for Anime Characters Recognition",
+            "homepage": "https://freedomofkeima.com/moeflow/",
             "id": 110232558,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-18T11:32:27Z",
+            "open_issues": 2,
             "owner": "freedomofkeima",
             "repo": "transfer-learning-anime",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "anime",
+              "classification",
+              "computer-vision",
+              "opencv",
+              "python",
+              "tensorflow",
+              "transfer-learning",
+              "transferlearning"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1508,12 +2373,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast and light-weighted anime face detection based on LFFD.",
+            "homepage": null,
             "id": 255994585,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-22T10:18:26Z",
+            "open_issues": 1,
             "owner": "cheese-roll",
             "repo": "light-anime-face-detector",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "anime",
+              "computer-vision",
+              "face-detection",
+              "lffd",
+              "mxnet"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1524,12 +2400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CBIR Engine Library",
+            "homepage": null,
             "id": 5650073,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2017-03-20T15:52:35Z",
+            "open_issues": 0,
             "owner": "nagadomi",
             "repo": "otama",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1540,12 +2421,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "alternative illustration2vec implitation of sigmoids of fully connected layer",
+            "homepage": null,
             "id": 84396041,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-10-20T11:47:12Z",
+            "open_issues": 2,
             "owner": "GINK03",
             "repo": "alt-i2v",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "deep-learning",
+              "keras",
+              "multiclass-classification",
+              "otaku",
+              "vectorization"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1556,12 +2448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch code for tagging dabooru images",
+            "homepage": null,
             "id": 273855629,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2020-06-21T09:02:28Z",
+            "open_issues": 0,
             "owner": "anthony-dipofi",
             "repo": "danbooru-tagger",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1572,12 +2469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YOLOX-based anime character detector running in browser with ONNX Runtime Web (WebGPU/WASM)",
+            "homepage": null,
             "id": 1132750094,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-13T12:22:15Z",
+            "open_issues": 0,
             "owner": "ksasao",
             "repo": "anime-character-detector",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -1594,12 +2496,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Timestamp Retrieval for Anime Clips Everywhere",
+            "homepage": "https://trace.moe",
             "id": 59805835,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-21T13:33:40Z",
+            "open_issues": 0,
             "owner": "soruly",
             "repo": "trace.moe",
-            "stars": 5025
+            "stars": 5025,
+            "topics": [
+              "anime",
+              "image-search",
+              "milvus",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1610,12 +2522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于特征点匹配的大规模相似图片搜索",
+            "homepage": null,
             "id": 404579821,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-19T10:05:48Z",
+            "open_issues": 5,
             "owner": "lolishinshi",
             "repo": "imsearch",
-            "stars": 1076
+            "stars": 1077,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1626,12 +2543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Fast Scene Search Engine for Anime Series 'Gochuumon wa Usagi Desuka?'",
+            "homepage": null,
             "id": 51933802,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-18T14:25:54Z",
+            "open_issues": 1,
             "owner": "ksasao",
             "repo": "Gochiusearch",
-            "stars": 401
+            "stars": 401,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -1648,12 +2570,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and open source manga reader for Android",
+            "homepage": null,
             "id": 743704912,
             "language": "Kotlin",
-            "last_commit": "2026-08-28T17:36:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T17:42:38Z",
+            "open_issues": 723,
             "owner": "mihonapp",
             "repo": "mihon",
-            "stars": 23190
+            "stars": 23200,
+            "topics": [
+              "android",
+              "kotlin",
+              "manga",
+              "manga-downloader",
+              "manga-reader",
+              "mangadownloader",
+              "mangareader",
+              "tachiyomi",
+              "tachiyomi-alternative"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1664,12 +2601,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED] An Unofficial E-Hentai Application for Android",
+            "homepage": "http://www.ehviewer.com/",
             "id": 19777812,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-08-09T04:50:17Z",
+            "open_issues": 198,
             "owner": "seven332",
             "repo": "EhViewer",
-            "stars": 9795
+            "stars": 9795,
+            "topics": [
+              "android",
+              "comic",
+              "doujinshi",
+              "manga"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1680,12 +2627,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A side project that aims to replicate the Amadeus App shown in Steins;Gate 0.",
+            "homepage": null,
             "id": 83315542,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2019-10-02T18:39:24Z",
+            "open_issues": 45,
             "owner": "Yink",
             "repo": "Amadeus",
-            "stars": 1061
+            "stars": 1061,
+            "topics": [
+              "steins-gate",
+              "steinsgate"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1696,12 +2651,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An elegant way of discovering anime on iOS.",
+            "homepage": "https://9ani.app",
             "id": 160985192,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-14T13:58:11Z",
+            "open_issues": 69,
             "owner": "SuperMarcus",
             "repo": "NineAnimator",
-            "stars": 820
+            "stars": 820,
+            "topics": [
+              "anilist",
+              "anime",
+              "animetwist",
+              "animeultima",
+              "app",
+              "application",
+              "gogoanime",
+              "ios",
+              "ios-app",
+              "kitsu",
+              "maccatalyst",
+              "macos",
+              "macos-app",
+              "myanimelist",
+              "swift"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1712,12 +2688,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Light novel reader for android test project collab",
+            "homepage": null,
             "id": 5364317,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-09-25T06:14:28Z",
+            "open_issues": 25,
             "owner": "calvinaquino",
             "repo": "LNReader-Android",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1728,12 +2709,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DISCONTINUED. Atarashii! - An amazing, modern MAL app for Android 4+",
+            "homepage": "http://atarashiiapp.com",
             "id": 5280076,
             "language": "Java",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-01-28T09:34:09Z",
+            "open_issues": 0,
             "owner": "AnimeNeko",
             "repo": "Atarashii",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1744,12 +2730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":information_desk_person: An unofficial iOS client for Konachan.net",
+            "homepage": null,
             "id": 45342412,
             "language": "Swift",
+            "license": null,
             "last_commit": "2016-12-25T17:09:10Z",
+            "open_issues": 6,
             "owner": "hkalexling",
             "repo": "KonaBot-iOS",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -1766,12 +2757,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "君の then-then-then 世は Promise で Future",
+            "homepage": null,
             "id": 273117672,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-05-16T09:24:07Z",
+            "open_issues": 7,
             "owner": "approvers",
             "repo": "RADWIMPS",
-            "stars": 278
+            "stars": 278,
+            "topics": [
+              "code-collection",
+              "future",
+              "method-chaining",
+              "promise",
+              "radwimps"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1782,12 +2784,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":boom: Highlight any code, in a colorful way. (seriously 700 bytes)",
+            "homepage": "https://hanabi.egoist.dev",
             "id": 82904317,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-01T16:24:39Z",
+            "open_issues": 2,
             "owner": "egoist",
             "repo": "hanabi",
-            "stars": 249
+            "stars": 249,
+            "topics": [
+              "fun",
+              "highlight"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1798,12 +2808,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "あなたはプログラミング言語フレンズなんだね！",
+            "homepage": null,
             "id": 81274316,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2020-05-01T15:20:18Z",
+            "open_issues": 2,
             "owner": "consomme",
             "repo": "kemono_friends_lang",
-            "stars": 209
+            "stars": 209,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1814,12 +2829,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "いつもニコニコあなたの隣に這いよる混沌ニャルラトホテプ言語ですっ",
+            "homepage": null,
             "id": 4058480,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2023-12-15T14:55:40Z",
+            "open_issues": 1,
             "owner": "masarakki",
             "repo": "nyaruko_lang",
-            "stars": 166
+            "stars": 166,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1830,12 +2850,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "terminalを可愛くします",
+            "homepage": null,
             "id": 100138496,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-03-29T17:30:22Z",
+            "open_issues": 2,
             "owner": "GINK03",
             "repo": "kawaii-term",
-            "stars": 117
+            "stars": 117,
+            "topics": [
+              "ascii-art",
+              "kawaii",
+              "python3",
+              "terminal",
+              "wtfpl"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1846,12 +2877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AAEncoder/AADecoder for any JavaScript program to/from Japanese style emoticons",
+            "homepage": null,
             "id": 46577798,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-07-30T21:40:26Z",
+            "open_issues": 1,
             "owner": "mervick",
             "repo": "php-aaencoder",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1862,12 +2898,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ご注文はプログラミング言語ですか？",
+            "homepage": null,
             "id": 21389364,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2017-09-02T06:23:27Z",
+            "open_issues": 1,
             "owner": "dolciss",
             "repo": "gochiusa_lang",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1878,12 +2919,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "あの言語",
+            "homepage": null,
             "id": 4059825,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2012-04-18T10:42:30Z",
+            "open_issues": 0,
             "owner": "zonuexe",
             "repo": "hhiro_lang",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1894,12 +2940,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "うぇーいｗｗｗ",
+            "homepage": null,
             "id": 9077754,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2013-03-28T14:15:16Z",
+            "open_issues": 0,
             "owner": "oppai",
             "repo": "We-i_lang",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -1916,12 +2967,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)",
+            "homepage": "http://www.readbeyond.it/aeneas/",
             "id": 35419406,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-25T10:22:31Z",
+            "open_issues": 37,
             "owner": "readbeyond",
             "repo": "aeneas",
-            "stars": 2862
+            "stars": 2862,
+            "topics": [
+              "alignment",
+              "audio",
+              "cli",
+              "dtw",
+              "espeak",
+              "espeak-ng",
+              "festival",
+              "ffmpeg",
+              "forced-alignment",
+              "linux",
+              "macos",
+              "nlp",
+              "python",
+              "smil",
+              "speech",
+              "srt",
+              "text",
+              "text-to-speech",
+              "tts",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1932,12 +3009,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatic subtitle shifter based on audio",
+            "homepage": null,
             "id": 19878084,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-17T18:19:16Z",
+            "open_issues": 20,
             "owner": "tp7",
             "repo": "Sushi",
-            "stars": 719
+            "stars": 719,
+            "topics": [
+              "ass-subtitles",
+              "audio-analysis",
+              "python",
+              "srt-subtitles",
+              "subtitle"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1948,12 +3036,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight JavaScript ASS subtitle renderer",
+            "homepage": "https://ass.js.org",
             "id": 16883695,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-15T19:08:06Z",
+            "open_issues": 10,
             "owner": "weizhenye",
             "repo": "ASS",
-            "stars": 664
+            "stars": 664,
+            "topics": [
+              "ass",
+              "subtitle"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1964,12 +3060,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Displays subtitles in .ass format from JavaScript. Supports most SSA/ASS features, easily integrates with HTML5 videos.",
+            "homepage": null,
             "id": 78491206,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-11T00:49:55Z",
+            "open_issues": 32,
             "owner": "libass",
             "repo": "JavascriptSubtitlesOctopus",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "ass-format",
+              "html5-video",
+              "javascript",
+              "libass",
+              "substation-alpha",
+              "subtitle-formats",
+              "subtitles",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1980,12 +3090,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://dialogue.moe",
             "id": 194210740,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-12-14T14:50:38Z",
+            "open_issues": 10,
             "owner": "windrises",
             "repo": "dialogue.moe",
-            "stars": 344
+            "stars": 344,
+            "topics": [
+              "dialogue",
+              "django",
+              "elasticsearch",
+              "scrapy",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -1996,12 +3117,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Renders ASS subs in the browser.",
+            "homepage": null,
             "id": 3266615,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-02-06T09:36:45Z",
+            "open_issues": 29,
             "owner": "Arnavion",
             "repo": "libjass",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2012,12 +3138,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guide for fansubbing",
+            "homepage": "https://guide.encode.moe",
             "id": 124148665,
             "language": "Markdown",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-06-22T12:22:08Z",
+            "open_issues": 14,
             "owner": "Irrational-Encoding-Wizardry",
             "repo": "guide.encode.moe",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "anime",
+              "encoding",
+              "fansub",
+              "fansubbing",
+              "guide",
+              "hacktoberfest",
+              "subtitles",
+              "timing",
+              "typesetting"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2028,12 +3169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool set to help checking and organizing bilingual subtitles.",
+            "homepage": null,
             "id": 35544098,
             "language": "Ruby",
+            "license": "BSD-2-Clause",
             "last_commit": "2017-08-22T02:15:17Z",
+            "open_issues": 0,
             "owner": "KamigamiSub",
             "repo": "SubBuilder",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -2050,12 +3196,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for conversion between Traditional and Simplified Chinese",
+            "homepage": "https://opencc.byvoid.com/",
             "id": 776621,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T04:41:40Z",
+            "open_issues": 50,
             "owner": "BYVoid",
             "repo": "OpenCC",
-            "stars": 9943
+            "stars": 9943,
+            "topics": [
+              "chinese",
+              "chinese-conversion",
+              "chinese-translation",
+              "simplified-chinese",
+              "traditional-chinese"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2066,12 +3223,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight anime tracker for Windows",
+            "homepage": "https://taiga.moe",
             "id": 14477437,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-16T17:15:54Z",
+            "open_issues": 219,
             "owner": "erengy",
             "repo": "taiga",
-            "stars": 2329
+            "stars": 2329,
+            "topics": [
+              "anilist",
+              "anime",
+              "kitsu",
+              "myanimelist",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2082,12 +3250,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Japanese language library for converting Japanese sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported.",
+            "homepage": "https://kuroshiro.org",
             "id": 48940278,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-07T19:20:29Z",
+            "open_issues": 49,
             "owner": "hexenq",
             "repo": "kuroshiro",
-            "stars": 987
+            "stars": 987,
+            "topics": [
+              "furigana",
+              "hepburn",
+              "hiragana",
+              "japanese",
+              "kana",
+              "kanji",
+              "katakana",
+              "kuromoji",
+              "mecab",
+              "okurigana",
+              "romaji"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2098,12 +3283,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CLI tool for extracting images and sounds from visual novels.",
+            "homepage": null,
             "id": 27352239,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-18T19:09:09Z",
+            "open_issues": 87,
             "owner": "vn-tools",
             "repo": "arc_unpacker",
-            "stars": 672
+            "stars": 672,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2114,12 +3304,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anime video filename parser",
+            "homepage": null,
             "id": 19916163,
             "language": "C++",
+            "license": "MPL-2.0",
             "last_commit": "2026-07-27T16:36:19Z",
+            "open_issues": 11,
             "owner": "erengy",
             "repo": "anitomy",
-            "stars": 317
+            "stars": 318,
+            "topics": [
+              "anime"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2130,12 +3327,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " epub comic generator | nhentai.net | e-hentai.org | wnacg.org",
+            "homepage": null,
             "id": 64614188,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-11-08T14:22:45Z",
+            "open_issues": 3,
             "owner": "moeoverflow",
             "repo": "comicbook",
-            "stars": 316
+            "stars": 316,
+            "topics": [
+              "comic",
+              "comic-books",
+              "e-hentai",
+              "epub",
+              "nhentai",
+              "python-3",
+              "r-18",
+              "wnacg"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2146,12 +3357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find the native resolution(s) of upscaled material (mostly anime)",
+            "homepage": null,
             "id": 105677242,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-18T14:17:40Z",
+            "open_issues": 2,
             "owner": "Infiziert90",
             "repo": "getnative",
-            "stars": 248
+            "stars": 248,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2162,12 +3378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 48865580,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-01T00:04:47Z",
+            "open_issues": 2,
             "owner": "wattlebird",
             "repo": "ranking",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2178,12 +3399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 318077975,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-02-22T07:35:36Z",
+            "open_issues": 1,
             "owner": "leminhyen2",
             "repo": "Visual-Novel-OCR",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2194,12 +3420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display bangumi list in CLI.",
+            "homepage": null,
             "id": 54375805,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-25T13:50:25Z",
+            "open_issues": 1,
             "owner": "egoist",
             "repo": "bgm",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2210,12 +3441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "wikipediaからアニメに関連するデータを解析する",
+            "homepage": null,
             "id": 50113595,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-05-08T06:32:08Z",
+            "open_issues": 0,
             "owner": "Project-ShangriLa",
             "repo": "wikipedia_anime_graph",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -2232,12 +3468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web application for chatting with AI characters that anyone can easily set up and deploy.",
+            "homepage": "https://aituberkit.com",
             "id": 705022737,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T10:02:28Z",
+            "open_issues": 19,
             "owner": "tegnike",
             "repo": "aituber-kit",
-            "stars": 1054
+            "stars": 1054,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2248,12 +3489,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Display live2D model as a sprite in pixi.js.",
+            "homepage": "https://avgjs.github.io/pixi-live2d-example/",
             "id": 70814358,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-04-12T15:06:58Z",
+            "open_issues": 3,
             "owner": "avgjs",
             "repo": "pixi-live2d",
-            "stars": 683
+            "stars": 683,
+            "topics": [
+              "live2d",
+              "pixi",
+              "pixi-live2d",
+              "pixijs"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2264,12 +3515,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Userscripts for Bangumi / 用于 Bangumi 的用户脚本",
+            "homepage": null,
             "id": 19565321,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-23T05:51:08Z",
+            "open_issues": 13,
             "owner": "bangumi",
             "repo": "scripts",
-            "stars": 327
+            "stars": 327,
+            "topics": [
+              "bangumi",
+              "userscripts"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2280,12 +3539,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bangumi.tv 相关的坑",
+            "homepage": "https://bangumi-users.github.io/awesome-bangumi/",
             "id": 60769153,
             "language": null,
+            "license": null,
             "last_commit": "2024-06-22T22:40:54Z",
+            "open_issues": 0,
             "owner": "bangumi-users",
             "repo": "awesome-bangumi",
-            "stars": 285
+            "stars": 285,
+            "topics": [
+              "acg",
+              "awesome-list",
+              "bangumi"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2296,12 +3564,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PTT ACGN股票交易市場",
+            "homepage": "https://acgn-stock.com",
             "id": 97927043,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-07T23:35:41Z",
+            "open_issues": 16,
             "owner": "ACGN-stock",
             "repo": "acgn-stock",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "acgn",
+              "javascript",
+              "meteor",
+              "stock",
+              "web-game"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2312,12 +3591,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "vue构建的日记应用 来源于「君の名は」（ Mydiary created with Vue2 ）",
+            "homepage": null,
             "id": 94185304,
             "language": "Vue",
+            "license": null,
             "last_commit": "2018-03-09T07:34:04Z",
+            "open_issues": 0,
             "owner": "SSShooter",
             "repo": "MyDiary-Vue",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2328,12 +3614,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vtuber web app powered by the latest and great in motion capture tech from MediaPipe.",
+            "homepage": "https://lab.kalidoface.com",
             "id": 641795494,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2023-05-23T00:28:31Z",
+            "open_issues": 5,
             "owner": "yeemachine",
             "repo": "kalidoface",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "blendshapes",
+              "electron-app",
+              "mediapipe",
+              "motion-capture",
+              "vtuber"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2344,12 +3641,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Welcome to youkoso japari-park! 🌴💥🚕🐈😧",
+            "homepage": "https://chrome.google.com/webstore/detail/ohkgbfcpbbljmmmidihgdfknhnpfkobd",
             "id": 82472922,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-23T02:48:58Z",
+            "open_issues": 0,
             "owner": "miyaoka",
             "repo": "japari-pedia",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "chrome-extension",
+              "kemono-friends"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2360,12 +3665,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "テキストを壱百満天原サロメお嬢様風の口調に変換するWebアプリ",
+            "homepage": "https://ojosama.jiro4989.com",
             "id": 504828279,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-20T21:03:02Z",
+            "open_issues": 6,
             "owner": "jiro4989",
             "repo": "ojosama-web",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "go",
+              "heroku",
+              "html",
+              "hyakumantenbara-salome",
+              "joke",
+              "js",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2376,12 +3694,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A web client for https://github.com/lordfriend/Albireo",
+            "homepage": null,
             "id": 54764815,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T16:51:03Z",
+            "open_issues": 0,
             "owner": "lordfriend",
             "repo": "Deneb",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "angular",
+              "angular8"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2392,12 +3718,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rebuild of Cybernoids' Live2D demo for interactive systems on mobile platforms.",
+            "homepage": "http://yutarochan.github.io/WebLive2D",
             "id": 18901325,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-12-16T17:03:08Z",
+            "open_issues": 0,
             "owner": "yutarochan",
             "repo": "WebLive2D",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2408,12 +3739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It replaces all of your images by Kemono Friends",
+            "homepage": null,
             "id": 88730731,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-27T11:01:11Z",
+            "open_issues": 0,
             "owner": "cornguo",
             "repo": "nKemono",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2424,12 +3760,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replace Advertisements with Kenomo Friends picture Using Perceptual Techniques",
+            "homepage": null,
             "id": 88645808,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-04-25T14:53:17Z",
+            "open_issues": 0,
             "owner": "chiakich",
             "repo": "Kemono_Adblocker",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2440,12 +3781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KarasamaEgg dynamic wallpaper for WallpaperEngine",
+            "homepage": null,
             "id": 77516075,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-05-26T12:06:56Z",
+            "open_issues": 0,
             "owner": "ClassicOldSong",
             "repo": "KarasamaEgg",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -2462,12 +3808,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+            "homepage": "https://airi.moeru.ai/docs/",
             "id": 896924279,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T17:33:28Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:18:39Z",
+            "open_issues": 197,
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 48530
+            "stars": 48542,
+            "topics": [
+              "ai-companion",
+              "ai-vtuber",
+              "airi",
+              "digital-life",
+              "grok-companion",
+              "live2d",
+              "neuro-sama",
+              "neurosama",
+              "openclaw",
+              "vrm",
+              "vtuber"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2478,12 +3841,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anime Girls Holding Programming Books",
+            "homepage": "https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/",
             "id": 90916769,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-10T18:25:25Z",
+            "open_issues": 53,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22499
+            "stars": 22504,
+            "topics": [
+              "anime"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2494,12 +3864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Single-image Layer Decomposition for Anime Characters\" (SIGGRAPH 2026 Conference Paper)",
+            "homepage": null,
             "id": 1196897920,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T13:31:48Z",
+            "open_issues": 16,
             "owner": "shitagaki-lab",
             "repo": "see-through",
-            "stars": 3675
+            "stars": 3677,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2510,12 +3885,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatdollKit enables you to make your 3D model into a chatbot",
+            "homepage": null,
             "id": 248977013,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-11T13:18:50Z",
+            "open_issues": 32,
             "owner": "uezo",
             "repo": "ChatdollKit",
-            "stars": 1214
+            "stars": 1216,
+            "topics": [
+              "3d-model",
+              "ai-companion",
+              "azure",
+              "chatbot",
+              "chatgpt",
+              "unity",
+              "unity3d",
+              "virtualassistant",
+              "vrm",
+              "waifu"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2526,12 +3917,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "2D Animation Tool",
+            "homepage": null,
             "id": 65996373,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2021-07-27T23:48:06Z",
+            "open_issues": 46,
             "owner": "hidefuku",
             "repo": "AnimeEffects",
-            "stars": 766
+            "stars": 766,
+            "topics": [
+              "animation",
+              "free-software"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2542,12 +3941,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ACG2vec (Anime Comics Games to vector) are committed to creating a playground that combines ACG and Deep learning.（文本语义检索、以图搜图、语义搜图、图片超分辨率、推荐系统）",
+            "homepage": "https://cheerfun.dev/acg2vec/",
             "id": 558173053,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-02-20T06:45:49Z",
+            "open_issues": 0,
             "owner": "OysterQAQ",
             "repo": "ACG2vec",
-            "stars": 582
+            "stars": 582,
+            "topics": [
+              "acg",
+              "anime",
+              "deep-learning",
+              "embedding",
+              "feature-extraction",
+              "image-search",
+              "image-super-resolution",
+              "keras",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2558,12 +3972,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source VTuber software. ❤",
+            "homepage": "https://www.vignetteapp.org",
             "id": 284738828,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-28T05:25:28Z",
+            "open_issues": 9,
             "owner": "vignetteapp",
             "repo": "vignette",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "face-recognition",
+              "hacktoberfest",
+              "live2d",
+              "vignette",
+              "vtuber"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2574,12 +3999,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":dancer: Anime tracker, database and community. Moved to https://git.akyoto.dev/web/notify.moe",
+            "homepage": "https://notify.moe",
             "id": 20374133,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-09-26T07:15:05Z",
+            "open_issues": 91,
             "owner": "animenotifier",
             "repo": "notify.moe",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "anime",
+              "anime-db",
+              "anime-fans",
+              "anime-lists",
+              "anime-tracker",
+              "anime-website"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2590,12 +4027,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PNGTuber以上Live2D未満 - 動画ループで髪揺れなど表現可能なリアルタイム口パクツール",
+            "homepage": null,
             "id": 1123508893,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-13T08:11:49Z",
+            "open_issues": 1,
             "owner": "rotejin",
             "repo": "MotionPNGTuber",
-            "stars": 328
+            "stars": 328,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2606,12 +4048,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A universal desktop model displayer for Live2D, Spine, MMD and VRoid.",
+            "homepage": "https://hime.xdrv.cn",
             "id": 502843837,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-30T06:38:39Z",
+            "open_issues": 14,
             "owner": "TSKI433",
             "repo": "hime-display",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "2d",
+              "3d",
+              "acg",
+              "electron",
+              "live2d",
+              "mmd",
+              "pixijs",
+              "spine",
+              "threejs",
+              "vroid",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2622,12 +4081,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guide for fansubbing",
+            "homepage": "https://guide.encode.moe",
             "id": 124148665,
             "language": "Markdown",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-06-22T12:22:08Z",
+            "open_issues": 14,
             "owner": "Irrational-Encoding-Wizardry",
             "repo": "guide.encode.moe",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "anime",
+              "encoding",
+              "fansub",
+              "fansubbing",
+              "guide",
+              "hacktoberfest",
+              "subtitles",
+              "timing",
+              "typesetting"
+            ]
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         },
@@ -2638,12 +4112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ahoy!ホロライブ3期生、宝鐘海賊団船長の、宝鐘マリンのボタンですぅ～～～～～",
+            "homepage": "https://hapo31.github.io/marine_button",
             "id": 250517435,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-23T00:03:52Z",
+            "open_issues": 5,
             "owner": "hapo31",
             "repo": "marine_button",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
         }
@@ -2652,15 +4131,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:37:35.281Z",
+    "last_updated": "2026-08-29T04:29:40.517Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome technologies related to Anime, Comic and Games",
+      "homepage": null,
       "id": 55614000,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-15T06:46:27Z",
+      "open_issues": 2,
       "owner": "soruly",
       "repo": "awesome-acg",
-      "stars": 1470
+      "stars": 1470,
+      "topics": [
+        "anime",
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "4b6bdf4c6306ff132c272d113130e43601198d7e",
     "enhanced_repository": "enhansome/enhansome-acg",
