@@ -266,11 +266,11 @@
             "id": 25129800,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-01T09:53:37Z",
+            "last_commit": "2026-08-29T08:28:19Z",
             "open_issues": 1150,
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 19347,
+            "stars": 19346,
             "topics": [
               "danbooru",
               "deviantart",
@@ -366,7 +366,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-07-27T05:20:57Z",
-            "open_issues": 33,
+            "open_issues": 30,
             "owner": "Nandaka",
             "repo": "PixivUtil2",
             "stars": 2698,
@@ -1794,7 +1794,7 @@
             "open_issues": 646,
             "owner": "xinntao",
             "repo": "Real-ESRGAN",
-            "stars": 36624,
+            "stars": 36625,
             "topics": [
               "amine",
               "denoise",
@@ -1824,7 +1824,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28212,
+            "stars": 28214,
             "topics": [
               "super-resolution",
               "torch",
@@ -1849,7 +1849,7 @@
             "open_issues": 123,
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21297,
+            "stars": 21301,
             "topics": [
               "anime",
               "anime-upscaling",
@@ -1905,7 +1905,7 @@
             "open_issues": 93,
             "owner": "AaronFeng753",
             "repo": "Waifu2x-Extension-GUI",
-            "stars": 16926,
+            "stars": 16930,
             "topics": [
               "anime",
               "anime4k",
@@ -1947,7 +1947,7 @@
             "open_issues": 17,
             "owner": "TachibanaYoshino",
             "repo": "AnimeGAN",
-            "stars": 4607,
+            "stars": 4608,
             "topics": [
               "anime-images",
               "animegan",
@@ -2114,7 +2114,7 @@
             "open_issues": 18,
             "owner": "deepghs",
             "repo": "imgutils",
-            "stars": 412,
+            "stars": 411,
             "topics": [
               "anime",
               "image-processing",
@@ -2579,7 +2579,7 @@
             "open_issues": 723,
             "owner": "mihonapp",
             "repo": "mihon",
-            "stars": 23200,
+            "stars": 23207,
             "topics": [
               "android",
               "kotlin",
@@ -2610,7 +2610,7 @@
             "open_issues": 198,
             "owner": "seven332",
             "repo": "EhViewer",
-            "stars": 9795,
+            "stars": 9794,
             "topics": [
               "android",
               "comic",
@@ -3205,7 +3205,7 @@
             "open_issues": 50,
             "owner": "BYVoid",
             "repo": "OpenCC",
-            "stars": 9943,
+            "stars": 9942,
             "topics": [
               "chinese",
               "chinese-conversion",
@@ -3813,11 +3813,11 @@
             "id": 896924279,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T01:18:39Z",
-            "open_issues": 197,
+            "last_commit": "2026-08-29T11:37:26Z",
+            "open_issues": 196,
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 48542,
+            "stars": 48547,
             "topics": [
               "ai-companion",
               "ai-vtuber",
@@ -3850,7 +3850,7 @@
             "open_issues": 53,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22504,
+            "stars": 22505,
             "topics": [
               "anime"
             ]
@@ -3873,7 +3873,7 @@
             "open_issues": 16,
             "owner": "shitagaki-lab",
             "repo": "see-through",
-            "stars": 3677,
+            "stars": 3680,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -4036,7 +4036,7 @@
             "open_issues": 1,
             "owner": "rotejin",
             "repo": "MotionPNGTuber",
-            "stars": 328,
+            "stars": 329,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -4131,7 +4131,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:29:40.517Z",
+    "last_updated": "2026-08-29T11:45:09.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technologies related to Anime, Comic and Games",
