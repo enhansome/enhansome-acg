@@ -109,7 +109,7 @@
             "open_issues": 268,
             "owner": "DIYgod",
             "repo": "DPlayer",
-            "stars": 16518,
+            "stars": 16519,
             "topics": [
               "danmaku",
               "dash",
@@ -249,7 +249,7 @@
             "open_issues": 387,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56867,
+            "stars": 56869,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -267,10 +267,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-03T15:53:11Z",
-            "open_issues": 1070,
+            "open_issues": 1071,
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 19956,
+            "stars": 19957,
             "topics": [
               "danbooru",
               "deviantart",
@@ -301,7 +301,7 @@
             "open_issues": 40,
             "owner": "kanasimi",
             "repo": "work_crawler",
-            "stars": 4270,
+            "stars": 4271,
             "topics": [
               "cejs",
               "comic-downloader",
@@ -1849,7 +1849,7 @@
             "open_issues": 119,
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21466,
+            "stars": 21468,
             "topics": [
               "anime",
               "anime-upscaling",
@@ -1905,7 +1905,7 @@
             "open_issues": 94,
             "owner": "AaronFeng753",
             "repo": "Waifu2x-Extension-GUI",
-            "stars": 17089,
+            "stars": 17090,
             "topics": [
               "anime",
               "anime4k",
@@ -2582,7 +2582,7 @@
             "open_issues": 735,
             "owner": "mihonapp",
             "repo": "mihon",
-            "stars": 24036,
+            "stars": 24039,
             "topics": [
               "android",
               "kotlin",
@@ -3816,11 +3816,11 @@
             "id": 896924279,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:08:41Z",
-            "open_issues": 221,
+            "last_commit": "2026-10-06T11:57:23Z",
+            "open_issues": 224,
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 50085,
+            "stars": 50087,
             "topics": [
               "ai-companion",
               "ai-vtuber",
@@ -3876,7 +3876,7 @@
             "open_issues": 20,
             "owner": "shitagaki-lab",
             "repo": "see-through",
-            "stars": 4388,
+            "stars": 4389,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -4134,7 +4134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:14:47.003Z",
+    "last_updated": "2026-10-06T12:09:47.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technologies related to Anime, Comic and Games",

@@ -36,7 +36,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Danmaku
 
-* [DPlayer](https://github.com/DIYgod/DPlayer) ⭐ 16,518 | 🐛 268 | 🌐 JavaScript | 📅 2026-03-04 - HTML5 danmaku video player. \[English/中文]
+* [DPlayer](https://github.com/DIYgod/DPlayer) ⭐ 16,519 | 🐛 268 | 🌐 JavaScript | 📅 2026-03-04 - HTML5 danmaku video player. \[English/中文]
 * [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) ⭐ 1,930 | 🐛 20 | 🌐 TypeScript | 📅 2023-10-17 - Javascript Live Comment (Danmaku) Engine Implementation. \[English/中文]
 * [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) ⭐ 883 | 🐛 7 | 🌐 JavaScript | 📅 2023-04-14 - Video Player for danmaku comments. ABPlayer in HTML5. \[English/中文]
 * [Danmaku](https://github.com/weizhenye/Danmaku) ⭐ 747 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08 - High performance JavaScript danmaku engine. \[English/中文]
@@ -44,9 +44,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Downloaders
 
-* [you-get](https://github.com/soimort/you-get) ⭐ 56,867 | 🐛 387 | 🌐 Python | 📅 2026-10-06 - Dumb downloader that scrapes the web. \[English]
-* [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 19,956 | 🐛 1,070 | 🌐 Python | 📅 2026-10-03 - Command-line program to download image-galleries and -collections from several image hosting sites. \[English]
-* [CeJS](https://github.com/kanasimi/work_crawler) ⭐ 4,270 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-03 - Online novels / comics downloader. \[English/中文]
+* [you-get](https://github.com/soimort/you-get) ⭐ 56,869 | 🐛 387 | 🌐 Python | 📅 2026-10-06 - Dumb downloader that scrapes the web. \[English]
+* [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 19,957 | 🐛 1,071 | 🌐 Python | 📅 2026-10-03 - Command-line program to download image-galleries and -collections from several image hosting sites. \[English]
+* [CeJS](https://github.com/kanasimi/work_crawler) ⭐ 4,271 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-03 - Online novels / comics downloader. \[English/中文]
 * [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) ⭐ 3,219 | 🐛 460 | 🌐 C++ | 📅 2026-09-26 - Very customizable imageboard/booru downloader with powerful filenaming features. \[English]
 * [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) ⭐ 2,699 | 🐛 27 | 🌐 Python | 📅 2026-09-18 - Downloader and tag manager for [Pixiv](https://www.pixiv.net/). \[English]
 * [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) ⭐ 2,442 | 🐛 108 | 🌐 JavaScript | 📅 2026-05-12 - Download E-Hentai archive as zip file. \[English]
@@ -147,9 +147,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) ⭐ 36,997 | 🐛 648 | 🌐 Python | 📅 2024-08-06 - Practical Algorithms for General Image/Video Restoration. \[English/中文]
 * [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,222 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art. \[English]
-* [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,466 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17 - A High-Quality Real Time Anime Upscaler. \[English]
+* [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,468 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17 - A High-Quality Real Time Anime Upscaler. \[English]
 * [style2paints](https://github.com/lllyasviel/style2paints) ⭐ 18,167 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - Paint line images with AI. \[English]
-* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 17,089 | 🐛 94 | 🌐 C++ | 📅 2026-10-02 - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. \[English/中文]
+* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 17,090 | 🐛 94 | 🌐 C++ | 📅 2026-10-02 - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. \[English/中文]
 * [TachibanaYoshino AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) ⭐ 4,611 | 🐛 17 | 🌐 Python | 📅 2022-08-03 - [shinkaimakoto mentioned](https://twitter.com/shinkaimakoto/status/1293130397312643072) "shinkaimakoto" animestyle transfer model \[English]
 * [PaintsChainer](https://github.com/pfnet/PaintsChainer) ⭐ 3,760 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2019-01-06 - Line drawing colorization using chainer. \[English]
 * [APISR](https://github.com/Kiteretsu77/APISR) ⭐ 1,136 | 🐛 21 | 🌐 Python | 📅 2025-10-16 - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024). \[English]
@@ -197,7 +197,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Mobile Apps
 
-* [Mihon](https://github.com/mihonapp/mihon) ⭐ 24,036 | 🐛 735 | 🌐 Kotlin | 📅 2026-10-04 - Free and open source manga reader for Android. \[English]
+* [Mihon](https://github.com/mihonapp/mihon) ⭐ 24,039 | 🐛 735 | 🌐 Kotlin | 📅 2026-10-04 - Free and open source manga reader for Android. \[English]
 * [EhViewer](https://github.com/seven332/EhViewer) ⚠️ Archived - Unofficial E-Hentai Application for Android. \[中文]
 * [Amadeus](https://github.com/Yink/Amadeus) ⭐ 1,065 | 🐛 45 | 🌐 Java | 📅 2019-10-02 - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0. \[English]
 * [NineAnimator](https://github.com/SuperMarcus/NineAnimator) ⚠️ Archived - Elegant, concise, and intuitive anime discovery app for iOS. \[English]
@@ -269,9 +269,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Uncategorized
 
-* [AIRI](https://github.com/moeru-ai/airi) ⭐ 50,085 | 🐛 221 | 🌐 TypeScript | 📅 2026-10-06 - A soul container of AI waifu / virtual characters to bring them into our world. \[English/中文/日本語]
+* [AIRI](https://github.com/moeru-ai/airi) ⭐ 50,087 | 🐛 224 | 🌐 TypeScript | 📅 2026-10-06 - A soul container of AI waifu / virtual characters to bring them into our world. \[English/中文/日本語]
 * [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) ⭐ 22,631 | 🐛 60 | 📅 2026-03-10 - Anime Girls Holding Programming Books. \[English]
-* [See-through](https://github.com/shitagaki-lab/see-through) ⭐ 4,388 | 🐛 20 | 🌐 Python | 📅 2026-10-05 - Single-image Layer Decomposition for Anime Characters. \[English]
+* [See-through](https://github.com/shitagaki-lab/see-through) ⭐ 4,389 | 🐛 20 | 🌐 Python | 📅 2026-10-05 - Single-image Layer Decomposition for Anime Characters. \[English]
 * [ChatdollKit](https://github.com/uezo/ChatdollKit) ⭐ 1,231 | 🐛 32 | 🌐 C# | 📅 2026-09-10 - ChatdollKit enables you to make your 3D model into a chatbot. \[English/日本語]
 * [AnimeEffects](https://github.com/hidefuku/AnimeEffects) ⭐ 766 | 🐛 46 | 🌐 C++ | 📅 2021-07-27 - 2D Animation Tool. \[English]
 * [ACG2vec](https://github.com/OysterQAQ/ACG2vec) ⭐ 584 | 🐛 0 | 📅 2024-02-20 - Various deep learning practices and explorations related to the two-dimensional domain. \[中文/English]
