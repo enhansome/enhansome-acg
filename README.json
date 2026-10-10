@@ -40,7 +40,7 @@
             "open_issues": 29,
             "owner": "CjangCjengh",
             "repo": "MoeGoe",
-            "stars": 2423,
+            "stars": 2424,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -109,7 +109,7 @@
             "open_issues": 268,
             "owner": "DIYgod",
             "repo": "DPlayer",
-            "stars": 16519,
+            "stars": 16517,
             "topics": [
               "danmaku",
               "dash",
@@ -246,10 +246,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T02:19:12Z",
-            "open_issues": 385,
+            "open_issues": 384,
             "owner": "soimort",
             "repo": "you-get",
-            "stars": 56865,
+            "stars": 56864,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -267,10 +267,10 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-09T09:44:13Z",
-            "open_issues": 1073,
+            "open_issues": 1072,
             "owner": "mikf",
             "repo": "gallery-dl",
-            "stars": 19996,
+            "stars": 20005,
             "topics": [
               "danbooru",
               "deviantart",
@@ -301,7 +301,7 @@
             "open_issues": 40,
             "owner": "kanasimi",
             "repo": "work_crawler",
-            "stars": 4278,
+            "stars": 4282,
             "topics": [
               "cejs",
               "comic-downloader",
@@ -337,7 +337,7 @@
             "open_issues": 460,
             "owner": "Bionus",
             "repo": "imgbrd-grabber",
-            "stars": 3224,
+            "stars": 3223,
             "topics": [
               "android",
               "booru",
@@ -369,7 +369,7 @@
             "open_issues": 27,
             "owner": "Nandaka",
             "repo": "PixivUtil2",
-            "stars": 2699,
+            "stars": 2697,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -406,7 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "拷贝漫画, Māngabz, jestful, 漫画柜, 动漫屋, 禁漫天堂, wnacg, exhentai, nhentai, hitomi.la, h-comic , kemono, danbooru ..etc. | i18n / pypi",
+            "description": "漫画下载软件：拷贝漫画, Māngabz, jestful, 漫画柜, 动漫屋, 禁漫天堂, wnacg, exhentai, nhentai, hitomi.la, h-comic ; 附有 kemono, danbooru 等衍生下载工具",
             "homepage": "https://cgs.101114105.xyz",
             "id": 228387695,
             "language": "Python",
@@ -415,7 +415,7 @@
             "open_issues": 2,
             "owner": "jasoneri",
             "repo": "ComicGUISpider",
-            "stars": 931,
+            "stars": 930,
             "topics": [
               "comic",
               "copymanga",
@@ -451,7 +451,7 @@
             "open_issues": 35,
             "owner": "Xonshiz",
             "repo": "comic-dl",
-            "stars": 677,
+            "stars": 678,
             "topics": [
               "automation",
               "comics",
@@ -683,7 +683,7 @@
             "open_issues": 0,
             "owner": "soruly",
             "repo": "anilist-crawler",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "anilist",
               "anime",
@@ -848,7 +848,7 @@
             "open_issues": 0,
             "owner": "manami-project",
             "repo": "anime-offline-database",
-            "stars": 1327,
+            "stars": 1328,
             "topics": [
               "anidb",
               "anilist",
@@ -915,8 +915,8 @@
             "id": 67352026,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-04T23:59:06Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-09T22:20:10Z",
+            "open_issues": 7,
             "owner": "bangumi-data",
             "repo": "bangumi-data",
             "stars": 650,
@@ -940,7 +940,7 @@
             "open_issues": 399,
             "owner": "VocaDB",
             "repo": "vocadb",
-            "stars": 483,
+            "stars": 482,
             "topics": [
               "albums",
               "asp-net-core",
@@ -1003,7 +1003,7 @@
             "open_issues": 9,
             "owner": "anilogia",
             "repo": "animedb",
-            "stars": 333,
+            "stars": 334,
             "topics": [
               "anime",
               "data"
@@ -1235,10 +1235,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T00:47:33Z",
-            "open_issues": 824,
+            "open_issues": 826,
             "owner": "hydrusnetwork",
             "repo": "hydrus",
-            "stars": 3230,
+            "stars": 3235,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -1255,11 +1255,11 @@
             "id": 502760,
             "language": "Ruby",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T20:09:47Z",
-            "open_issues": 479,
+            "last_commit": "2026-10-09T18:03:24Z",
+            "open_issues": 480,
             "owner": "danbooru",
             "repo": "danbooru",
-            "stars": 2819,
+            "stars": 2820,
             "topics": [
               "anime",
               "booru",
@@ -1313,7 +1313,7 @@
             "open_issues": 30,
             "owner": "moebooru",
             "repo": "moebooru",
-            "stars": 611,
+            "stars": 612,
             "topics": [
               "coffeescript",
               "hacktoberfest",
@@ -1512,7 +1512,7 @@
             "open_issues": 57,
             "owner": "Doubiiu",
             "repo": "ToonCrafter",
-            "stars": 6032,
+            "stars": 6031,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -1533,7 +1533,7 @@
             "open_issues": 70,
             "owner": "lllyasviel",
             "repo": "Paints-UNDO",
-            "stars": 4064,
+            "stars": 4065,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -1791,10 +1791,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2024-08-06T13:15:18Z",
-            "open_issues": 647,
+            "open_issues": 646,
             "owner": "xinntao",
             "repo": "Real-ESRGAN",
-            "stars": 37039,
+            "stars": 37050,
             "topics": [
               "amine",
               "denoise",
@@ -1824,7 +1824,7 @@
             "open_issues": 154,
             "owner": "nagadomi",
             "repo": "waifu2x",
-            "stars": 28223,
+            "stars": 28225,
             "topics": [
               "super-resolution",
               "torch",
@@ -1849,7 +1849,7 @@
             "open_issues": 119,
             "owner": "bloc97",
             "repo": "Anime4K",
-            "stars": 21486,
+            "stars": 21490,
             "topics": [
               "anime",
               "anime-upscaling",
@@ -1884,7 +1884,7 @@
             "open_issues": 54,
             "owner": "lllyasviel",
             "repo": "style2paints",
-            "stars": 18163,
+            "stars": 18162,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -1902,10 +1902,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T02:05:31Z",
-            "open_issues": 94,
+            "open_issues": 95,
             "owner": "AaronFeng753",
             "repo": "Waifu2x-Extension-GUI",
-            "stars": 17100,
+            "stars": 17105,
             "topics": [
               "anime",
               "anime4k",
@@ -1974,7 +1974,7 @@
             "open_issues": 43,
             "owner": "pfnet",
             "repo": "PaintsChainer",
-            "stars": 3758,
+            "stars": 3757,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -2016,7 +2016,7 @@
             "open_issues": 10,
             "owner": "SkyTNT",
             "repo": "anime-segmentation",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "anime",
               "segmentation"
@@ -2242,7 +2242,7 @@
             "open_issues": 7,
             "owner": "nagadomi",
             "repo": "lbpcascade_animeface",
-            "stars": 1982,
+            "stars": 1981,
             "topics": [
               "face-detector",
               "opencv"
@@ -2505,7 +2505,7 @@
             "open_issues": 0,
             "owner": "soruly",
             "repo": "trace.moe",
-            "stars": 5036,
+            "stars": 5037,
             "topics": [
               "anime",
               "cbir",
@@ -2578,11 +2578,11 @@
             "id": 743704912,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T17:02:23Z",
-            "open_issues": 738,
+            "last_commit": "2026-10-10T07:23:12Z",
+            "open_issues": 736,
             "owner": "mihonapp",
             "repo": "mihon",
-            "stars": 24146,
+            "stars": 24181,
             "topics": [
               "android",
               "kotlin",
@@ -2639,7 +2639,7 @@
             "open_issues": 45,
             "owner": "Yink",
             "repo": "Amadeus",
-            "stars": 1064,
+            "stars": 1065,
             "topics": [
               "steins-gate",
               "steinsgate"
@@ -3204,11 +3204,11 @@
             "id": 776621,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T12:26:12Z",
+            "last_commit": "2026-10-09T15:07:17Z",
             "open_issues": 55,
             "owner": "BYVoid",
             "repo": "OpenCC",
-            "stars": 10044,
+            "stars": 10043,
             "topics": [
               "chinese",
               "chinese-conversion",
@@ -3235,7 +3235,7 @@
             "open_issues": 215,
             "owner": "erengy",
             "repo": "taiga",
-            "stars": 2334,
+            "stars": 2335,
             "topics": [
               "anilist",
               "anime",
@@ -3411,7 +3411,7 @@
             "open_issues": 1,
             "owner": "leminhyen2",
             "repo": "Visual-Novel-OCR",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -3477,10 +3477,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-04T16:02:50Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "tegnike",
             "repo": "aituber-kit",
-            "stars": 1118,
+            "stars": 1119,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -3816,11 +3816,11 @@
             "id": 896924279,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T11:12:24Z",
-            "open_issues": 222,
+            "last_commit": "2026-10-10T09:56:53Z",
+            "open_issues": 219,
             "owner": "moeru-ai",
             "repo": "airi",
-            "stars": 50214,
+            "stars": 50239,
             "topics": [
               "ai-companion",
               "ai-vtuber",
@@ -3853,7 +3853,7 @@
             "open_issues": 60,
             "owner": "cat-milk",
             "repo": "Anime-Girls-Holding-Programming-Books",
-            "stars": 22637,
+            "stars": 22639,
             "topics": [
               "anime"
             ]
@@ -3876,7 +3876,7 @@
             "open_issues": 20,
             "owner": "shitagaki-lab",
             "repo": "see-through",
-            "stars": 4485,
+            "stars": 4518,
             "topics": []
           },
           "first_seen": "2026-08-28T17:37:35.281Z"
@@ -3897,7 +3897,7 @@
             "open_issues": 32,
             "owner": "uezo",
             "repo": "ChatdollKit",
-            "stars": 1231,
+            "stars": 1232,
             "topics": [
               "3d-model",
               "ai-companion",
@@ -4134,7 +4134,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T12:01:53.167Z",
+    "last_updated": "2026-10-10T11:18:22.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technologies related to Anime, Comic and Games",
