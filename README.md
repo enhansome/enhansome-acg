@@ -26,7 +26,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Audio
 
-* [VOICEVOX](https://github.com/VOICEVOX/voicevox) ⭐ 3,311 | 🐛 359 | 🌐 TypeScript | 📅 2026-11-24 - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
+* [VOICEVOX](https://github.com/VOICEVOX/voicevox) ⭐ 3,312 | 🐛 363 | 🌐 TypeScript | 📅 2026-11-24 - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのエディター. \[日本語]
 * [MoeGoe](https://github.com/CjangCjengh/MoeGoe) ⭐ 2,425 | 🐛 29 | 🌐 Python | 📅 2023-08-22 - Anime character voice synthesizer. \[English/中文]
 * [0x40-web](https://github.com/mon/0x40-web) ⭐ 440 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-20 - HTML5/CSS3 Canvas + Web Audio clone of the 0x40 Hues Flash. \[English]
 * [moefm.sh](https://github.com/mike2718/moefm.sh) ⚠️ Archived - Client script for moefm radio. \[中文]
@@ -36,7 +36,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Danmaku
 
-* [DPlayer](https://github.com/DIYgod/DPlayer) ⭐ 16,547 | 🐛 267 | 🌐 JavaScript | 📅 2026-11-05 - HTML5 danmaku video player. \[English/中文]
+* [DPlayer](https://github.com/DIYgod/DPlayer) ⭐ 16,549 | 🐛 267 | 🌐 JavaScript | 📅 2026-11-05 - HTML5 danmaku video player. \[English/中文]
 * [CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary) ⭐ 1,927 | 🐛 21 | 🌐 TypeScript | 📅 2026-10-26 - Javascript Live Comment (Danmaku) Engine Implementation. \[English/中文]
 * [ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) ⭐ 881 | 🐛 7 | 🌐 JavaScript | 📅 2023-04-14 - Video Player for danmaku comments. ABPlayer in HTML5. \[English/中文]
 * [Danmaku](https://github.com/weizhenye/Danmaku) ⭐ 751 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08 - High performance JavaScript danmaku engine. \[English/中文]
@@ -44,13 +44,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Downloaders
 
-* [you-get](https://github.com/soimort/you-get) ⭐ 56,848 | 🐛 382 | 🌐 Python | 📅 2026-11-15 - Dumb downloader that scrapes the web. \[English]
-* [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 20,637 | 🐛 1,053 | 🌐 Python | 📅 2026-11-21 - Command-line program to download image-galleries and -collections from several image hosting sites. \[English]
-* [CeJS](https://github.com/kanasimi/work_crawler) ⭐ 4,397 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-12 - Online novels / comics downloader. \[English/中文]
-* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) ⭐ 3,241 | 🐛 436 | 🌐 C++ | 📅 2026-11-23 - Very customizable imageboard/booru downloader with powerful filenaming features. \[English]
-* [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) ⭐ 2,701 | 🐛 25 | 🌐 Python | 📅 2026-10-25 - Downloader and tag manager for [Pixiv](https://www.pixiv.net/). \[English]
-* [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) ⭐ 2,491 | 🐛 110 | 🌐 JavaScript | 📅 2026-05-12 - Download E-Hentai archive as zip file. \[English]
-* [ComicGUISpider](https://github.com/jasoneri/ComicGUISpider) ⭐ 1,028 | 🐛 0 | 🌐 Python | 📅 2026-11-22 - Comic downloader by simple GUI operation. \[English/中文]
+* [you-get](https://github.com/soimort/you-get) ⭐ 56,849 | 🐛 382 | 🌐 Python | 📅 2026-11-15 - Dumb downloader that scrapes the web. \[English]
+* [gallery-dl](https://github.com/mikf/gallery-dl) ⭐ 20,642 | 🐛 1,054 | 🌐 Python | 📅 2026-11-21 - Command-line program to download image-galleries and -collections from several image hosting sites. \[English]
+* [CeJS](https://github.com/kanasimi/work_crawler) ⭐ 4,402 | 🐛 40 | 🌐 JavaScript | 📅 2026-10-12 - Online novels / comics downloader. \[English/中文]
+* [imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber) ⭐ 3,242 | 🐛 436 | 🌐 C++ | 📅 2026-11-23 - Very customizable imageboard/booru downloader with powerful filenaming features. \[English]
+* [PixivUtil (Pixiv Downloader)](https://github.com/Nandaka/PixivUtil2) ⭐ 2,702 | 🐛 25 | 🌐 Python | 📅 2026-10-25 - Downloader and tag manager for [Pixiv](https://www.pixiv.net/). \[English]
+* [E-Hentai-Downloader](https://github.com/ccloli/E-Hentai-Downloader) ⭐ 2,492 | 🐛 110 | 🌐 JavaScript | 📅 2026-05-12 - Download E-Hentai archive as zip file. \[English]
+* [ComicGUISpider](https://github.com/jasoneri/ComicGUISpider) ⭐ 1,033 | 🐛 0 | 🌐 Python | 📅 2026-11-22 - Comic downloader by simple GUI operation. \[English/中文]
 * [Comic-DL](https://github.com/Xonshiz/comic-dl) ⭐ 686 | 🐛 35 | 🌐 Python | 📅 2025-07-31 - Command line tool to download manga and comics from various comic and manga sites. \[English]
 * [DMHY](https://github.com/yaqinking/DMHY) ⚠️ Archived - Easily download/auto-download torrent(s) from share.dmhy.org / acg.rip etc. sites for OS X. \[中文]
 * [Danbooru Downloader](https://github.com/Nandaka/DanbooruDownloader) ⭐ 427 | 🐛 106 | 🌐 C# | 📅 2025-01-16 - Downloader for [Danbooru](https://danbooru.donmai.us/). \[English]
@@ -68,7 +68,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 ## Database APIs
 
 * [AniDB API](https://wiki.anidb.net/w/API) - Official API for [AniDB](https://anidb.net/). \[English]
-* [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,349 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-18 - Official API for [Anilist](https://anilist.co/). \[English]
+* [Anilist APIv2](https://github.com/AniList/ApiV2-GraphQL-Docs) ⭐ 1,350 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-18 - Official API for [Anilist](https://anilist.co/). \[English]
 * [Atarashii API](https://bitbucket.org/animeneko/atarashii-api) - Unofficial API for [MyAnimeList](http://myanimelist.net/). \[English]
 * [Jikan API](https://jikan.moe) - Unofficial API for [MyAnimeList](https://myanimelist.net/). \[English]
 * [MyAnimeList APIv2](https://myanimelist.net/apiconfig/references/api/v2) - Official API for [MyAnimeList](https://myanimelist.net/). \[English]
@@ -80,11 +80,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [anime-offline-database](https://github.com/manami-project/anime-offline-database/) ⚠️ Archived - A JSON based offline anime database containing the most important meta data as well as cross references to various anime sites such as MAL, ANIDB, ANILIST, KITSU and more. \[English]
 * [NyaaPantsu](https://github.com/NyaaPantsu/nyaa) ⭐ 999 | 🐛 70 | 🌐 Go | 📅 2023-09-20 - Nyaa.se replacement written in golang. \[English]
 * [Bangumi Data](https://github.com/bangumi-data/bangumi-data) ⭐ 665 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-17 - Raw data for Japanese Anime. \[中文]
-* [Vocaloid Database](https://github.com/VocaDB/vocadb) ⭐ 492 | 🐛 401 | 🌐 C# | 📅 2026-11-23 - Server software used by [vocadb.net](http://vocadb.net/). \[English]
+* [Vocaloid Database](https://github.com/VocaDB/vocadb) ⭐ 492 | 🐛 402 | 🌐 C# | 📅 2026-11-23 - Server software used by [vocadb.net](http://vocadb.net/). \[English]
 * [E-HentaiCrawler](https://github.com/shuiqukeyou/E-HentaiCrawler) ⭐ 391 | 🐛 0 | 🌐 Python | 📅 2019-08-02 - E-Heitai Crawler. \[中文]
 * [Anilogia](https://github.com/anilogia/animedb) ⭐ 333 | 🐛 9 | 🌐 Python | 📅 2023-10-26 - Anime list database. \[日本語]
 * [anime-streaming](https://github.com/otakulogy/anime-streaming) ⭐ 123 | 🐛 0 | 📅 2024-06-27 - A curated list of worldwide legal anime streaming. \[English]
-* [arm-server](https://github.com/BeeeQueue/arm-server) ⭐ 120 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-20 - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu. \[English]
+* [arm-server](https://github.com/BeeeQueue/arm-server) ⭐ 120 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-25 - A service for mapping Anime ID's between AniList, AniDB, MAL, and Kitsu. \[English]
 * [anime-relations](https://github.com/erengy/anime-relations) ⭐ 103 | 🐛 5 | 📅 2026-11-07 - Episode redirections for Taiga. \[English]
 * [manga-platform](https://github.com/otakulogy/manga-platform) ⭐ 38 | 🐛 1 | 📅 2024-04-14 - A curated list of worldwide legal manga reading site. \[English]
 * [Seiyuu.moe](https://github.com/Ervie/Seiyuu.moe) ⭐ 22 | 🐛 5 | 🌐 C# | 📅 2026-11-16 - A webpage for searching collaborate anime works between seiyuu. \[English]
@@ -104,8 +104,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Image Board
 
-* [Hydrus](https://github.com/hydrusnetwork/hydrus) ⭐ 3,283 | 🐛 827 | 🌐 Python | 📅 2026-11-24 - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. \[English]
-* [danbooru](https://github.com/r888888888/danbooru) ⭐ 2,945 | 🐛 501 | 🌐 Ruby | 📅 2026-11-24 - Taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/). \[English]
+* [Hydrus](https://github.com/hydrusnetwork/hydrus) ⭐ 3,286 | 🐛 826 | 🌐 Python | 📅 2026-11-25 - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. \[English]
+* [danbooru](https://github.com/r888888888/danbooru) ⭐ 2,946 | 🐛 497 | 🌐 Ruby | 📅 2026-11-25 - Taggable image board written in Rails 4 for [danbooru.donmai.us](https://danbooru.donmai.us/). \[English]
 * [szurubooru](https://github.com/rr-/szurubooru) ⭐ 1,035 | 🐛 200 | 🌐 Python | 📅 2026-11-19 - Python-powered booru for small to medium communities. \[English]
 * [Moebooru](https://github.com/moebooru/moebooru) ⭐ 610 | 🐛 30 | 🌐 Ruby | 📅 2026-11-13 - Fork of danbooru1 that has been heavily modified. Used on [yande.re](https://yande.re/) , [Konachan.com](https://konachan.com/). \[English]
 * [TagsTable](https://github.com/zcyzcy88/TagsTable) ⭐ 539 | 🐛 4 | 🌐 HTML | 📅 2018-10-09 - Chinese ⇔ Engish translation table for common booru tags. \[中文]
@@ -118,13 +118,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Image Generation
 
-* [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) ⭐ 6,068 | 🐛 58 | 🌐 Python | 📅 2025-03-19 - Generative Cartoon Interpolation. \[English]
-* [Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) ⭐ 4,072 | 🐛 70 | 🌐 Python | 📅 2025-08-13 - A Base Model of Drawing Behaviors in Digital Paintings. \[English]
+* [ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) ⭐ 6,071 | 🐛 58 | 🌐 Python | 📅 2025-03-19 - Generative Cartoon Interpolation. \[English]
+* [Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) ⭐ 4,073 | 🐛 70 | 🌐 Python | 📅 2025-08-13 - A Base Model of Drawing Behaviors in Digital Paintings. \[English]
 * [Anime2Sketch](https://github.com/Mukosame/Anime2Sketch) ⭐ 2,146 | 🐛 7 | 🌐 Python | 📅 2026-10-18 - A sketch extractor for anime/illustration. \[English]
 * [DeepAA](https://github.com/OsciiArt/DeepAA) ⭐ 1,584 | 🐛 2 | 🌐 Python | 📅 2021-07-14 - Make Ascii Arts by Deep Learning. \[English]
 * [chainer-DCGAN](https://github.com/mattya/chainer-DCGAN) ⭐ 930 | 🐛 7 | 🌐 Python | 📅 2020-07-06 - Generate anime face with neural network. \[日本語]
 * [TwinGAN](https://github.com/jerryli27/TwinGAN) ⭐ 715 | 🐛 21 | 🌐 Python | 📅 2022-11-22 - Unsupervised Image Translation for Human Portraits to anime. \[English]
-* [AniDoc](https://github.com/yihao-meng/AniDoc) ⭐ 580 | 🐛 5 | 🌐 Python | 📅 2025-04-15 - Colorize a sequence of sketches based on a character design reference with high fidelity. \[English]
+* [AniDoc](https://github.com/yihao-meng/AniDoc) ⭐ 581 | 🐛 5 | 🌐 Python | 📅 2025-04-15 - Colorize a sequence of sketches based on a character design reference with high fidelity. \[English]
 * [animate-me](https://github.com/Aneureka/animate-me) ⭐ 225 | 🐛 17 | 🌐 JavaScript | 📅 2022-02-18 - A miniapp to convert selfie to anime. \[中文]
 * [seeprettyface dongman](https://github.com/a312863063/seeprettyface-ganerator-dongman) ⭐ 150 | 🐛 2 | 🌐 Python | 📅 2019-11-03 - A stylegan danbooru pretrain model with Chinese document. \[中文]
 * [kemonogen](https://github.com/aratama/kemonogen) ⭐ 123 | 🐛 1 | 📅 2023-07-25 - Kemono Friends logo generator. \[日本語]
@@ -145,11 +145,11 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Image Processing
 
-* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) ⭐ 37,635 | 🐛 649 | 🌐 Python | 📅 2024-08-06 - Practical Algorithms for General Image/Video Restoration. \[English/中文]
-* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,236 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art. \[English]
-* [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,662 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17 - A High-Quality Real Time Anime Upscaler. \[English]
-* [style2paints](https://github.com/lllyasviel/style2paints) ⭐ 18,143 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - Paint line images with AI. \[English]
-* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 17,263 | 🐛 95 | 🌐 C++ | 📅 2026-11-20 - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. \[English/中文]
+* [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) ⭐ 37,652 | 🐛 649 | 🌐 Python | 📅 2024-08-06 - Practical Algorithms for General Image/Video Restoration. \[English/中文]
+* [waifu2x](https://github.com/nagadomi/waifu2x) ⭐ 28,237 | 🐛 154 | 🌐 Lua | 📅 2023-05-04 - Image Super-Resolution for Anime-Style Art. \[English]
+* [Anime4K](https://github.com/bloc97/Anime4K) ⭐ 21,666 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-08-17 - A High-Quality Real Time Anime Upscaler. \[English]
+* [style2paints](https://github.com/lllyasviel/style2paints) ⭐ 18,142 | 🐛 54 | 🌐 JavaScript | 📅 2023-08-01 - Paint line images with AI. \[English]
+* [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) ⭐ 17,268 | 🐛 95 | 🌐 C++ | 📅 2026-11-20 - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x, SRMD, RealSR, Anime4K, RIFE, CAIN, DAIN and ACNet. \[English/中文]
 * [TachibanaYoshino AnimeGAN](https://github.com/TachibanaYoshino/AnimeGAN) ⭐ 4,611 | 🐛 17 | 🌐 Python | 📅 2022-08-03 - [shinkaimakoto mentioned](https://twitter.com/shinkaimakoto/status/1293130397312643072) "shinkaimakoto" animestyle transfer model \[English]
 * [PaintsChainer](https://github.com/pfnet/PaintsChainer) ⭐ 3,757 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2019-01-06 - Line drawing colorization using chainer. \[English]
 * [APISR](https://github.com/Kiteretsu77/APISR) ⭐ 1,147 | 🐛 21 | 🌐 Python | 📅 2025-10-16 - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024). \[English]
@@ -157,7 +157,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [MangaCraft](https://github.com/lllyasviel/MangaCraft) ⭐ 697 | 🐛 1 | 📅 2020-04-03 - Semi-automatic manga colorization. \[English]
 * [Real-ESRGAN-GUI](https://github.com/tsukumijima/Real-ESRGAN-GUI) ⭐ 618 | 🐛 3 | 🌐 Dart | 📅 2022-10-19 - Real-ESRGAN GUI Wrapper. \[日本語]
 * [sketchKeras](https://github.com/lllyasviel/sketchKeras) ⭐ 472 | 🐛 5 | 🌐 Python | 📅 2017-05-04 - An u-net with some algorithm to take sketch from paints. \[English]
-* [imgutils](https://github.com/deepghs/imgutils) ⭐ 431 | 🐛 19 | 🌐 Python | 📅 2025-10-11 - Image processing library with various anime-style image processing models. \[English]
+* [imgutils](https://github.com/deepghs/imgutils) ⭐ 432 | 🐛 19 | 🌐 Python | 📅 2025-10-11 - Image processing library with various anime-style image processing models. \[English]
 * [waifu2x-converter-cpp](https://github.com/tanakamura/waifu2x-converter-cpp) ⭐ 318 | 🐛 13 | 🌐 C++ | 📅 2020-05-30 - Improved version of waifu2x. \[English]
 * [Overmix](https://github.com/spillerrec/Overmix) ⭐ 210 | 🐛 62 | 🌐 C++ | 📅 2024-05-16 - Automatic anime screenshot stitching in high quality. \[English]
 * [animeloop-cli](https://github.com/moeoverflow/animeloop-cli) ⭐ 96 | 🐛 0 | 🌐 C++ | 📅 2019-12-18 - Automatically detect and cut anime loops. \[English]
@@ -186,8 +186,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Image Reverse Search
 
-* [WAIT: What Anime Is This?](https://github.com/soruly/trace.moe) ⭐ 5,049 | 🐛 0 | 📅 2026-09-23 - Anime scene search engine. Powered by [liresolr](https://github.com/dermotte/liresolr) ⭐ 190 | 🐛 4 | 🌐 Java | 📅 2020-05-26. \[English]
-* [imsearch](https://github.com/lolishinshi/imsearch) ⭐ 1,133 | 🐛 6 | 🌐 Rust | 📅 2026-11-11 - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
+* [WAIT: What Anime Is This?](https://github.com/soruly/trace.moe) ⭐ 5,050 | 🐛 0 | 📅 2026-09-23 - Anime scene search engine. Powered by [liresolr](https://github.com/dermotte/liresolr) ⭐ 190 | 🐛 4 | 🌐 Java | 📅 2020-05-26. \[English]
+* [imsearch](https://github.com/lolishinshi/imsearch) ⭐ 1,134 | 🐛 6 | 🌐 Rust | 📅 2026-11-11 - Image search powering [soutubot.moe](https://soutubot.moe). \[中文]
 * [Gochiusearch](https://github.com/ksasao/Gochiusearch) ⭐ 401 | 🐛 1 | 🌐 C# | 📅 2021-01-18 - Fast Scene Search Engine for 'Gochuumon wa Usagi Desuka?'. \[日本語]
 * [ascii2d](http://www.ascii2d.net/) - 2D art search. \[日本語]
 * Image Search Options ([Chrome Extension](https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl) / [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/image-search-options/)) - Search multiple image reverse search engines. \[English]
@@ -197,7 +197,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Mobile Apps
 
-* [Mihon](https://github.com/mihonapp/mihon) ⭐ 25,631 | 🐛 778 | 🌐 Kotlin | 📅 2026-11-22 - Free and open source manga reader for Android. \[English]
+* [Mihon](https://github.com/mihonapp/mihon) ⭐ 25,652 | 🐛 784 | 🌐 Kotlin | 📅 2026-11-22 - Free and open source manga reader for Android. \[English]
 * [EhViewer](https://github.com/seven332/EhViewer) ⚠️ Archived - Unofficial E-Hentai Application for Android. \[中文]
 * [Amadeus](https://github.com/Yink/Amadeus) ⭐ 1,088 | 🐛 46 | 🌐 Java | 📅 2019-10-02 - A side project that aims to replicate the Amadeus App shown in Steins;Gate 0. \[English]
 * [NineAnimator](https://github.com/SuperMarcus/NineAnimator) ⚠️ Archived - Elegant, concise, and intuitive anime discovery app for iOS. \[English]
@@ -231,14 +231,14 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Tools
 
-* [OpenCC](https://github.com/BYVoid/OpenCC) ⭐ 10,123 | 🐛 57 | 🌐 C++ | 📅 2026-10-29 - Project for conversion between Traditional and Simplified Chinese. \[中文]
+* [OpenCC](https://github.com/BYVoid/OpenCC) ⭐ 10,127 | 🐛 58 | 🌐 C++ | 📅 2026-10-29 - Project for conversion between Traditional and Simplified Chinese. \[中文]
 * [Taiga](https://github.com/erengy/taiga) ⭐ 2,343 | 🐛 201 | 🌐 C++ | 📅 2026-11-15 - Lightweight anime tracker for Windows. \[English]
 * [kuroshiro](https://github.com/hexenq/kuroshiro) ⭐ 1,008 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-20 - Japanese language utility mainly for converting Kanji-mixed sentence to Hiragana, Katakana or Romaji with furigana and okurigana modes supported. \[English]
 * [arc\_unpacker](https://github.com/vn-tools/arc_unpacker) ⚠️ Archived - Visual novel extracting tool in CLI. \[English]
 * [anitomy](https://github.com/erengy/anitomy) ⭐ 329 | 🐛 12 | 🌐 C++ | 📅 2026-07-27 - Anime video filename parser. \[English]
 * [Comicbook](https://github.com/moeoverflow/comicbook) ⭐ 318 | 🐛 3 | 🌐 Python | 📅 2024-11-08 - Convert online comics to .epub e-book. \[English]
 * [getnative](https://github.com/Infiziert90/getnative) ⭐ 247 | 🐛 2 | 🌐 Python | 📅 2025-11-18 - Find the native resolution(s) of upscaled material (mostly anime). \[English]
-* [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking) ⭐ 86 | 🐛 2 | 🌐 Python | 📅 2023-06-01. \[English]
+* [rankit.ikely.me](http://rankit.ikely.me/) - Scientific ranking of anime ratings by [Rankit](https://github.com/wattlebird/ranking) ⭐ 85 | 🐛 2 | 🌐 Python | 📅 2023-06-01. \[English]
 * [Visual Novel OCR](https://github.com/leminhyen2/Visual-Novel-OCR) ⭐ 66 | 🐛 1 | 🌐 JavaScript | 📅 2022-02-22 - Japanese optical character recognition for visual novels. \[English]
 * [bgm](https://github.com/egoist/bgm) ⭐ 20 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-25 - Display bangumi list in CLI. \[中文]
 * [wikipedia\_anime\_graph](https://github.com/Project-ShangriLa/wikipedia_anime_graph) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-08 - Calculate anime relevance from wikipedia. \[日本語]
@@ -246,7 +246,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Web
 
-* [livliv player](https://github.com/livliv-dev/player) ⭐ 1,622 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-23 - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. \[English/中文/日本語]
+* [livliv player](https://github.com/livliv-dev/player) ⭐ 1,627 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-23 - A lightweight 2.5D character player for the web, with lip sync and webcam face tracking. \[English/中文/日本語]
 * [AITuberKit](https://github.com/tegnike/aituber-kit) ⭐ 1,148 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-23 - AITuber Kit. \[日本語/English/中文]
 * [pixi-live2d](https://github.com/avgjs/pixi-live2d) ⚠️ Archived - Display live2D model as a sprite in pixi.js. \[English]
 * [Bangumi scripts](https://github.com/bangumi/scripts) ⭐ 325 | 🐛 13 | 🌐 JavaScript | 📅 2026-11-21 - Collection of user scripts for [bangumi.tv](http://bangumi.tv). \[中文]
@@ -270,13 +270,13 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Uncategorized
 
-* [AIRI](https://github.com/moeru-ai/airi) ⭐ 51,714 | 🐛 309 | 🌐 TypeScript | 📅 2026-11-24 - A soul container of AI waifu / virtual characters to bring them into our world. \[English/中文/日本語]
-* [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) ⭐ 22,686 | 🐛 61 | 📅 2026-03-10 - Anime Girls Holding Programming Books. \[English]
-* [See-through](https://github.com/shitagaki-lab/see-through) ⭐ 5,877 | 🐛 28 | 🌐 Python | 📅 2026-11-14 - Single-image Layer Decomposition for Anime Characters. \[English]
+* [AIRI](https://github.com/moeru-ai/airi) ⭐ 51,757 | 🐛 304 | 🌐 TypeScript | 📅 2026-11-25 - A soul container of AI waifu / virtual characters to bring them into our world. \[English/中文/日本語]
+* [Anime-Girls-Holding-Programming-Books](https://github.com/laynH/Anime-Girls-Holding-Programming-Books) ⭐ 22,687 | 🐛 61 | 📅 2026-03-10 - Anime Girls Holding Programming Books. \[English]
+* [See-through](https://github.com/shitagaki-lab/see-through) ⭐ 5,896 | 🐛 28 | 🌐 Python | 📅 2026-11-14 - Single-image Layer Decomposition for Anime Characters. \[English]
 * [ChatdollKit](https://github.com/uezo/ChatdollKit) ⭐ 1,288 | 🐛 32 | 🌐 C# | 📅 2026-10-31 - ChatdollKit enables you to make your 3D model into a chatbot. \[English/日本語]
-* [HairDeck](https://github.com/hyz317/HairDeck) ⭐ 1,220 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - Animation-Ready Stylized Hair Cards from a Single Image. \[English/中文/日本語]
+* [HairDeck](https://github.com/hyz317/HairDeck) ⭐ 1,224 | 🐛 3 | 🌐 Python | 📅 2026-11-13 - Animation-Ready Stylized Hair Cards from a Single Image. \[English/中文/日本語]
 * [AnimeEffects](https://github.com/hidefuku/AnimeEffects) ⭐ 766 | 🐛 47 | 🌐 C++ | 📅 2021-07-27 - 2D Animation Tool. \[English]
-* [OpenAmika](https://github.com/zeekk0/OpenAmika) ⭐ 687 | 🐛 4 | 🌐 Python | 📅 2026-11-21 - MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain. \[English/中文/日本語]
+* [OpenAmika](https://github.com/zeekk0/OpenAmika) ⭐ 695 | 🐛 1 | 🌐 Python | 📅 2026-11-24 - MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain. \[English/中文/日本語]
 * [ACG2vec](https://github.com/OysterQAQ/ACG2vec) ⭐ 579 | 🐛 0 | 📅 2024-02-20 - Various deep learning practices and explorations related to the two-dimensional domain. \[中文/English]
 * [Vignette](https://github.com/vignetteapp/vignette) ⭐ 522 | 🐛 9 | 🌐 C# | 📅 2023-07-28 - The open source VTuber software. \[English]
 * [notify.moe](https://github.com/animenotifier/notify.moe) ⚠️ Archived - Fetches your anime "watching" list and notifies you when a new anime episode is available. \[English]
@@ -299,4 +299,4 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
